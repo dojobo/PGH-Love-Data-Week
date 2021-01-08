@@ -28,6 +28,11 @@ More info and RSVP: [https://pitt.libcal.com/event/7347410](https://pitt.libcal.
 ## Friday, 2/12
 *Nothing here yet*
 
+## ...and what else?
+We love data all year! This is just a small sampling of our workshops. Check out the upcoming events at these institutions:
+* [CMU Libraries](https://cmu.libcal.com/calendar/events/?cid=-1&t=m&d=0000-00-00&cal=-1&inc=0)
+* [Pitt Health Sciences Library System](https://www.hsls.pitt.edu/calendar)
+* [Pitt University Library System](https://pitt.libcal.com/calendar/today/?cid=2274&t=d&d=0000-00-00&cal=2274&inc=0)
 
 ---
-This page is a collaboration between folx at Pitt Libraries, Pitt Health Sciences Library System, and CMU Libraries.
+This page is a collaboration between folx at CMU Libraries, Pitt Health Sciences Library System, and Pitt University Library System.
