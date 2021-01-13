@@ -13,7 +13,7 @@ th, td {
 }
 
 @media screen and (max-width: 600px) {
-  #desktop-glance {
+  table {
     visibility: hidden;
     display: none;
   }
