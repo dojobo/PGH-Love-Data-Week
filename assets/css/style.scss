@@ -8,6 +8,13 @@ table {
 }
 th, td {
   width: 50%;
-  font-size: 80%;
+  font-size: 75%;
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
+}
+
+@media screen and (max-width: 600px) {
+  #desktop-glance {
+    visibility: hidden;
+    display: none;
+  }
 }
