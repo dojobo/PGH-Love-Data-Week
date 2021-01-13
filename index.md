@@ -5,6 +5,7 @@ Join us for **Love Data Week 2021**, February 8-12, for a full slate of workshop
 What is Love Data Week? It's a time to celebrate working with and managing research data and code, brought to you by your friendly neighborhood data librarians. 
 
 ### Love Data Week at a glance
+
 | Mon 2/8 | Tues 2/9 | Weds 2/10 | Thurs 2/11 | Fri 2/12 |
 |---------|----------|-----------|------------|----------|
 |[Introduction to Research Data Management, 2-3 PM](#mon-hsls-1) | [Data Management in R (Pitt credentials required), 11 AM-12:30 PM](#tues-hsls-1) | [Social Justice and Publicly Available Data, 10-11 AM](#weds-hsls-1) | [Command Line Basics: Question Hour, 12-1 PM](#thurs-hsls-1) | [Mapping Geographic Data with Tableau, 2-3:30 PM](#fri-hsls-1) | 
