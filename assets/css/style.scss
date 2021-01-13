@@ -2,3 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+table {
+  table-layout: fixed;
+  width: 100%;
+}
+th, td {
+  width: 50%;
+  font-size: 90%;
+  font-family: 'Open Sans', Myriad, Calibri, sans-serif;
+}
