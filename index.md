@@ -4,11 +4,17 @@ Join us for **Love Data Week 2021**, February 8-12, for a full slate of workshop
 
 What is Love Data Week? It's a time to celebrate working with and managing research data and code, brought to you by your friendly neighborhood data librarians. 
 
+<div id="desktop-glance">
+  
 ### Love Data Week at a glance
 
 | Mon 2/8 | Tues 2/9 | Weds 2/10 | Thurs 2/11 | Fri 2/12 |
 |---------|----------|-----------|------------|----------|
 | [Data Vis. Recommended Practices, 12-1 PM](#mon-cmu-1)<br><br>[Intro to Research Data Mgmt, 2-3 PM](#mon-hsls-1) | [Data Mgmt in R *(Pitt only)*, 11 AM-12:30 PM](#tues-hsls-1)<br><br>[Data Love Letters, 1-2 PM](#tues-uls-1) | [Social Justice and Publicly Available Data, 10-11 AM](#weds-hsls-1)<br><br>[Cleaning Untidy Data with OpenRefine, 12-1 PM](#weds-cmu-1)<br><br>[Increase Your Data's Discoverability with the Pitt Data Catalog, 1:30-2:30 PM](#weds-hsls-2) | [Command Line Basics: Question Hour, 12-1 PM](#thurs-hsls-1)<br><br>[Data Mgmt for Qualitative Data, 12-1 PM](#thurs-cmu-1)<br><br>[Intro to Glitch Art, 2-3:30 PM](#thurs-uls-1) | [Mapping Geographic Data with Tableau, 2-3:30 PM](#fri-hsls-1) |
+
+</div>
+<div id="mobile-glance">
+</div>
 
 ----------
 
