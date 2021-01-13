@@ -45,7 +45,7 @@ More info and RSVP: [https://www.hsls.pitt.edu/instruction/increase-your-datas-d
 More info and RSVP: [https://www.hsls.pitt.edu/instruction/command-line-basics-questions-hour/5434](https://www.hsls.pitt.edu/instruction/command-line-basics-questions-hour/5434)
 
 ### Introduction to Glitch Art
-2-3:30 PM // hosted by Pitt Libraries  
+2-3:30 PM // hosted by the University Library System @ The University of Pittsburgh 
 >This online workshop will cover some of the various tools and techniques associated with the creation of Glitch Art. In addition, participants will be introduced to some of the history and conceptual theories surrounding glitch and Glitch Art.  
 
 More info and RSVP: [https://pitt.libcal.com/event/7347410](https://pitt.libcal.com/event/7347410)
