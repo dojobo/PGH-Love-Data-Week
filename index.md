@@ -9,7 +9,6 @@ What is Love Data Week? It's a time to celebrate working with and managing resea
 | Mon 2/8 | Tues 2/9 | Weds 2/10 | Thurs 2/11 | Fri 2/12 |
 |---------|----------|-----------|------------|----------|
 | [Data Visualization Recommend Practices, 12-1pm](#mon-cmu-1) | [Data Management in R (Pitt credentials required), 11 AM-12:30 PM](#tues-hsls-1) | [Social Justice and Publicly Available Data, 10-11 AM](#weds-hsls-1) | [Command Line Basics: Question Hour, 12-1 PM](#thurs-hsls-1) | [Mapping Geographic Data with Tableau, 2-3:30 PM](#fri-hsls-1) |
-
 | [Introduction to Research Data Management, 2-3 PM](#mon-hsls-1) | [Data Love Letters: How to Write a Data Management Plan for your Grant Proposal, 1-2 PM](#tues-uls-1) | [Increase Your Data's Discoverability with the Pitt Data Catalog, 1:30-2:30 PM](#weds-hsls-2) | [Introduction to Glitch Art, 2-3:30 PM](#thurs-uls-1) |  
 
 ----------
