@@ -9,7 +9,8 @@ What is Love Data Week? It's a time to celebrate working with and managing resea
 | Mon 2/8 | Tues 2/9 | Weds 2/10 | Thurs 2/11 | Fri 2/12 |
 |---------|----------|-----------|------------|----------|
 | [Data Visualization Recommend Practices, 12-1pm](#mon-cmu-1) | [Data Management in R (Pitt credentials required), 11 AM-12:30 PM](#tues-hsls-1) | [Social Justice and Publicly Available Data, 10-11 AM](#weds-hsls-1) | [Command Line Basics: Question Hour, 12-1 PM](#thurs-hsls-1) | [Mapping Geographic Data with Tableau, 2-3:30 PM](#fri-hsls-1) |
-| [Introduction to Research Data Management, 2-3 PM](#mon-hsls-1) | [Data Love Letters: How to Write a Data Management Plan for your Grant Proposal, 1-2 PM](#tues-uls-1) | [Increase Your Data's Discoverability with the Pitt Data Catalog, 1:30-2:30 PM](#weds-hsls-2) | [Introduction to Glitch Art, 2-3:30 PM](#thurs-uls-1) |  
+| [Introduction to Research Data Management, 2-3 PM](#mon-hsls-1) | [Data Love Letters: How to Write a Data Management Plan for your Grant Proposal, 1-2 PM](#tues-uls-1) | [Increase Your Data's Discoverability with the Pitt Data Catalog, 1:30-2:30 PM](#weds-hsls-2) | [Data Management for Qualitative Data](#thurs-cmu-1) |  
+| | | [Cleaning Untidy Data with OpenRefine, 12-1pm] (#weds-cmu-1) | [Introduction to Glitch Art, 2-3:30 PM](#thurs-uls-1) | |
 
 ----------
 
@@ -33,12 +34,6 @@ More info and RSVP: [https://www.hsls.pitt.edu/instruction/introduction-research
 
 More info and RSVP (registration limited to the Pitt community only): [https://www.hsls.pitt.edu/instruction/data-management-r/5515](https://www.hsls.pitt.edu/instruction/data-management-r/5515)
 
-### <a name="tues-cmu-1"></a>Cleaning Untidy Data with OpenRefine 
-**12-1pm** // hosted by the Carnegie Mellon University Libraries
->Tired of spending hours and hours cleaning messy data in Excel spreadsheets? Come learn OpenRefine, an easy-to-use, open source tool for data cleaning. OpenRefine (formerly Google Refine) helps you prepare your data for analysis. Quickly and easily transform data, split and merge columns, remove whitespace, and perform many more common data cleaning tasks. With OpenRefine, you can also easily create JSON scripts for repeating series of tasks across multiple datasets. No previous experience required.
-
-More info and RSVP: [https://cmu.libcal.com/event/7336588](https://cmu.libcal.com/event/7336588)
-
 ### <a name="tues-uls-1"></a>Data Love Letters: How to Write a Data Management Plan for your Grant Proposal
 **1-2 PM** // hosted by the University Library System @ The University of Pittsburgh 
 >A data management plan is like a love letter to your data. Data management planning is important for funding, but it also sets you up for success with best practices—this Valentine’s Day, show future-you how much you care. In this online presentation, we’ll discuss the salient features of a data management plan, and what funders look for.   
@@ -51,6 +46,12 @@ More info and RSVP: [https://pitt.libcal.com/event/7347355](https://pitt.libcal.
 >The health of a population is significantly influenced by the environment in which they live. This workshop will utilize publicly available data sources to provide a means by which we can examine the intersection of health with income, education, pollution, housing, and healthy/risky behaviors.
 
 More information and RSVP: [https://www.hsls.pitt.edu/instruction/social-justice-and-publicly-available-data/4997](https://www.hsls.pitt.edu/instruction/social-justice-and-publicly-available-data/4997)
+
+### <a name="weds-cmu-1"></a>Cleaning Untidy Data with OpenRefine 
+**12-1pm** // hosted by the Carnegie Mellon University Libraries
+>Tired of spending hours and hours cleaning messy data in Excel spreadsheets? Come learn OpenRefine, an easy-to-use, open source tool for data cleaning. OpenRefine (formerly Google Refine) helps you prepare your data for analysis. Quickly and easily transform data, split and merge columns, remove whitespace, and perform many more common data cleaning tasks. With OpenRefine, you can also easily create JSON scripts for repeating series of tasks across multiple datasets. No previous experience required.
+
+More info and RSVP: [https://cmu.libcal.com/event/7336588](https://cmu.libcal.com/event/7336588)
 
 ### <a name="weds-hsls-2"></a>Increase Your Data's Discoverability with the Pitt Data Catalog
 **1:30-2:30 PM** // hosted by the Health Sciences Library System @ The University of Pittsburgh
