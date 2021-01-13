@@ -14,8 +14,14 @@ What is Love Data Week? It's a time to celebrate working with and managing resea
 ----------
 
 ## Monday, 2/8
+### <a name="mon-cmu-1"></a>Data Visualization Recommended Practices
+**12-1pm** // hosted by the Carnegie Mellon University Libraries
+>Data visualization, or the techniques used to visually display or communicate data, is an obvious output of our research or data analysis. Being able to effectively communicate your data to an audience is a necessary part of any project. How to harness visualization tools to tell a story will be presented in this short workshop. We will discuss how different types of graphs and charts are perceived and how they can be used to answer different questions, as well as what aspects of graphs make for effective storytelling.
+
+More info and RSVP: [https://cmu.libcal.com/event/7395150](https://cmu.libcal.com/event/7395150)
+
 ### <a name="mon-hsls-1"></a>Introduction to Research Data Management
-**2-3 PM** // Hosted by the Health Sciences Library System @ The University of Pittsburgh
+**2-3 PM** // hosted by the Health Sciences Library System @ The University of Pittsburgh
 >In this class, learn the fundamentals of keeping your data secure and organized through brief introductions to the core areas of data management: file storage and organization, file documentation, data preservation, and data publication and/or data sharing. This class is intended for graduate students and researchers who are working on long-term research projects, or for anyone who wants to make sure their personal files are safe for the long-term.
 
 More info and RSVP: [https://www.hsls.pitt.edu/instruction/introduction-research-data-management/3074](https://www.hsls.pitt.edu/instruction/introduction-research-data-management/3074)
@@ -26,6 +32,12 @@ More info and RSVP: [https://www.hsls.pitt.edu/instruction/introduction-research
 >This course will consist of a flipped classroom – a pre-recorded video and a hands-on workshop – which will cover the more advanced topics in R programming for data analysis and graphics. Upon completion participants will be able to: Import and export data; Merge datasets; Transform data; Create basic summaries of data
 
 More info and RSVP (registration limited to the Pitt community only): [https://www.hsls.pitt.edu/instruction/data-management-r/5515](https://www.hsls.pitt.edu/instruction/data-management-r/5515)
+
+### <a name="tues-cmu-1"></a>Cleaning Untidy Data with OpenRefine 
+**12-1pm** // hosted by the Carnegie Mellon University Libraries
+>Tired of spending hours and hours cleaning messy data in Excel spreadsheets? Come learn OpenRefine, an easy-to-use, open source tool for data cleaning. OpenRefine (formerly Google Refine) helps you prepare your data for analysis. Quickly and easily transform data, split and merge columns, remove whitespace, and perform many more common data cleaning tasks. With OpenRefine, you can also easily create JSON scripts for repeating series of tasks across multiple datasets. No previous experience required.
+
+More info and RSVP: [https://cmu.libcal.com/event/7336588](https://cmu.libcal.com/event/7336588)
 
 ### <a name="tues-uls-1"></a>Data Love Letters: How to Write a Data Management Plan for your Grant Proposal
 **1-2 PM** // hosted by the University Library System @ The University of Pittsburgh 
@@ -52,6 +64,12 @@ More info and RSVP: [https://www.hsls.pitt.edu/instruction/increase-your-datas-d
 >Have questions about getting started with command line? Register to receive access to a pre-recorded video covering the basics of command line skills for data analysis and a practice dataset.  Topics covered include: accessing Pitt Center for Research Computing clusters via Unix/Linux shell, transferring files using FileZilla, creating and managing files and directories, editing file using vi text editor, and accessing open source bioinformatics software. Attend the scheduled session to get answers to your questions and hear from others.
 
 More info and RSVP: [https://www.hsls.pitt.edu/instruction/command-line-basics-questions-hour/5434](https://www.hsls.pitt.edu/instruction/command-line-basics-questions-hour/5434)
+
+### <a name="thurs-cmu-1"></a>Data Management for Qualitative Data 
+**12-1pm** // hosted by the Carnegie Mellon University Libraries
+>Research data management education provides guidance on how researchers can effectively manage their data to increase the scholarly impact from their research. However, guidelines for data management may vary significantly across domain areas. All domain areas engage with data in some manner, with the caveat that the physical form of these data may differ visually and structurally. Researchers specializing in qualitative data engage with many unique forms of data, including photographs, film, literature, ethnographies, and audiovisual materials, all with their own considerations for how to effectively manage them. This workshop will provide data management tips and tips specifically aimed at qualitative researchers from all levels (students, staff, and faculty), including how to clean data, develop file-naming schemes, and store your data securely.
+
+More info and RSVP: [https://cmu.libcal.com/event/7328485](https://cmu.libcal.com/event/7328485)
 
 ### <a name="thurs-uls-1"></a>Introduction to Glitch Art
 **2-3:30 PM** // hosted by the University Library System @ The University of Pittsburgh 
