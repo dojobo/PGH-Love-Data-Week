@@ -7,7 +7,7 @@ What is Love Data Week? It's a time to celebrate working with and managing resea
 ### Love Data Week at a glance
 
 |Date|Events|
-|---|---|
+|--:|---|
 |Mon 2/8|<ul><li>[Data Vis. Recommended Practices, 12-1 PM](#mon-cmu-1)</li><li>[Intro to Research Data Mgmt, 2-3 PM](#mon-hsls-1)</li></ul>|
 |Tues 2/9|<ul><li>[Data Mgmt in R *(Pitt only)*, 11 AM-12:30 PM](#tues-hsls-1)</li><li>[Data Love Letters, 1-2 PM](#tues-uls-1)</li></ul>|
 |Weds 2/10|<ul><li>[Social Justice and Publicly Available Data, 10-11 AM](#weds-hsls-1)</li><li>[Cleaning Untidy Data with OpenRefine, 12-1 PM](#weds-cmu-1)</li><li>[Increase Your Data's Discoverability with the Pitt Data Catalog, 1:30-2:30 PM](#weds-hsls-2)</li></ul>| 
