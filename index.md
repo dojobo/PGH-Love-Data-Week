@@ -5,7 +5,15 @@ Join us for **Love Data Week 2021**, February 8-12, for a full slate of workshop
 What is Love Data Week? It's a time to celebrate working with and managing research data and code, brought to you by your friendly neighborhood data librarians. 
 
 ## Love Data Week at a glance
+|Date|Events|
+|---|---|
+|**Mon**<br>**2/8**|{::nomarkdown}<ul><li>[Data Vis. Recommended Practices, 12-1 PM](#mon-cmu-1)</li><li>[Intro to Research Data Mgmt, 2-3 PM](#mon-hsls-1)</li></ul>{:/}|
+|**Tues**<br>**2/9**|{::nomarkdown}<ul><li>[Data Mgmt in R *(Pitt only)*, 11 AM-12:30 PM](#tues-hsls-1)</li><li>[Data Love Letters, 1-2 PM](#tues-uls-1)</li></ul>{:/}|
+|**Weds**<br>**2/10**|{::nomarkdown}<ul><li>[Social Justice and Publicly Available Data, 10-11 AM](#weds-hsls-1)</li><li>[Cleaning Untidy Data with OpenRefine, 12-1 PM](#weds-cmu-1)</li><li>[Increase Your Data's Discoverability with the Pitt Data Catalog, 1:30-2:30 PM](#weds-hsls-2)</li></ul>{:/}| 
+|**Thurs**<br>**2/11**|{::nomarkdown}<ul><li>[Command Line Basics: Question Hour, 12-1 PM](#thurs-hsls-1)</li><li>[Data Mgmt for Qualitative Data, 12-1 PM](#thurs-cmu-1)</li><li>[Intro to Glitch Art, 2-3:30 PM](#thurs-uls-1)</li></ul>{:/}|
+|**Fri**<br>**2/12**|{::nomarkdown}<ul><li>[Mapping Geographic Data with Tableau, 2-3:30 PM](#fri-hsls-1)</li></ul>{:/}|
 
+<!--
 |Date|Events|
 |--:|---|
 |**Mon**<br>**2/8** |[Data Vis. Recommended Practices, 12-1 PM](#mon-cmu-1) <br><br>[Intro to Research Data Mgmt, 2-3 PM](#mon-hsls-1)|
@@ -13,7 +21,7 @@ What is Love Data Week? It's a time to celebrate working with and managing resea
 |**Weds**<br>**2/10** |[Social Justice and Publicly Available Data, 10-11 AM](#weds-hsls-1) <br><br>[Cleaning Untidy Data with OpenRefine, 12-1 PM](#weds-cmu-1) <br><br>[Increase Your Data's Discoverability with the Pitt Data Catalog, 1:30-2:30 PM](#weds-hsls-2)| 
 |**Thurs**<br>**2/11** |[Command Line Basics: Question Hour, 12-1 PM](#thurs-hsls-1) <br><br>[Data Mgmt for Qualitative Data, 12-1 PM](#thurs-cmu-1) <br><br>[Intro to Glitch Art, 2-3:30 PM](#thurs-uls-1)|
 |**Fri**<br>**2/12** |[Mapping Geographic Data with Tableau, 2-3:30 PM](#fri-hsls-1)|
-
+-->
 <!--
 |Date|Events|
 |--:|---|
