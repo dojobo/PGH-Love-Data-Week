@@ -8,11 +8,11 @@ What is Love Data Week? It's a time to celebrate working with and managing resea
 
 |Date|Events|
 |--:|---|
-|Mon 2/8|[Data Vis. Recommended Practices, 12-1 PM](#mon-cmu-1) <br><br>[Intro to Research Data Mgmt, 2-3 PM](#mon-hsls-1)|
-|Tues 2/9|[Data Mgmt in R *(Pitt only)*, 11 AM-12:30 PM](#tues-hsls-1)<br><br>[Data Love Letters, 1-2 PM](#tues-uls-1)|
-|Weds 2/10|[Social Justice and Publicly Available Data, 10-11 AM](#weds-hsls-1) <br><br>[Cleaning Untidy Data with OpenRefine, 12-1 PM](#weds-cmu-1) <br><br>[Increase Your Data's Discoverability with the Pitt Data Catalog, 1:30-2:30 PM](#weds-hsls-2)| 
-|Thurs 2/11|[Command Line Basics: Question Hour, 12-1 PM](#thurs-hsls-1) <br><br>[Data Mgmt for Qualitative Data, 12-1 PM](#thurs-cmu-1) <br><br>[Intro to Glitch Art, 2-3:30 PM](#thurs-uls-1)|
-|Fri 2/12|[Mapping Geographic Data with Tableau, 2-3:30 PM](#fri-hsls-1)|
+|**Mon**<br>**2/8** |[Data Vis. Recommended Practices, 12-1 PM](#mon-cmu-1) <br><br>[Intro to Research Data Mgmt, 2-3 PM](#mon-hsls-1)|
+|**Tues**<br>**2/9** |[Data Mgmt in R *(Pitt only)*, 11 AM-12:30 PM](#tues-hsls-1)<br><br>[Data Love Letters, 1-2 PM](#tues-uls-1)|
+|**Weds**<br>**2/10** |[Social Justice and Publicly Available Data, 10-11 AM](#weds-hsls-1) <br><br>[Cleaning Untidy Data with OpenRefine, 12-1 PM](#weds-cmu-1) <br><br>[Increase Your Data's Discoverability with the Pitt Data Catalog, 1:30-2:30 PM](#weds-hsls-2)| 
+|**Thurs**<br>**2/11** |[Command Line Basics: Question Hour, 12-1 PM](#thurs-hsls-1) <br><br>[Data Mgmt for Qualitative Data, 12-1 PM](#thurs-cmu-1) <br><br>[Intro to Glitch Art, 2-3:30 PM](#thurs-uls-1)|
+|**Fri**<br>**2/12** |[Mapping Geographic Data with Tableau, 2-3:30 PM](#fri-hsls-1)|
 
 <!--
 |Date|Events|
