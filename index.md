@@ -1,4 +1,4 @@
-Pittsburgh ♥ data!
+♥ Pittsburgh loves data! ♥
 
 Join us for **Love Data Week 2021**, February 8-12, for a full slate of workshops and presentations designed to help you work more effectively with your research data and code.
 
