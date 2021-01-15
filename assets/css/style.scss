@@ -2,6 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+p {
+  word-wrap: break-word;
+}
 /*
 table {
   table-layout: fixed;
