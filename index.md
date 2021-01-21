@@ -21,7 +21,7 @@ What is Love Data Week? It's a time to celebrate working with and managing resea
 |**Tues**<br>**2/9** |{::nomarkdown}<ul><li><a href="https://lovedatapgh.io/#tues-hsls-1">Data Mgmt in R <strong>(Pitt only)</strong>, 11 AM-12:30 PM</a></li><li><a href="https://lovedatapgh.io/#tues-uls-1">Data Love Letters, 1-2 PM</a></li></ul>{:/}|
 |**Weds**<br>**2/10** |{::nomarkdown}<ul><li><a href="https://lovedatapgh.io/#weds-hsls-1">Social Justice and Publicly Available Data, 10-11 AM</a></li><li><a href="https://lovedatapgh.io/#weds-cmu-1">Cleaning Untidy Data with OpenRefine, 12-1 PM</a></li><li><a href="https://lovedatapgh.io/#weds-hsls-2">Increase Your Data's Discoverability with the Pitt Data Catalog, 1:30-2:30 PM</a></li></ul>{:/}| 
 |**Thurs**<br>**2/11** |{::nomarkdown}<ul><li><a href="https://lovedatapgh.io/#thurs-hsls-1">Command Line Basics: Question Hour, 12-1 PM</a></li><li><a href="https://lovedatapgh.io/#thurs-cmu-1">Data Mgmt for Qualitative Data, 12-1 PM</a></li><li><a href="https://lovedatapgh.io/#thurs-uls-1">Intro to Glitch Art, 2-3:30 PM</a></li></ul>{:/}|
-|**Fri**<br>**2/12** |{::nomarkdown}<ul><li><a href="https://lovedatapgh.io/#fri-hsls-1">Mapping Geographic Data with Tableau, 2-3:30 PM</a></li></ul>{:/}|
+|**Fri**<br>**2/12** |{::nomarkdown}<ul><li><a href="https://lovedatapgh.io/#fri-hsls-1">Mapping Geographic Data with Tableau, 10-11 AM</a></li></ul>{:/}|
 
 <!--
 | Mon 2/8 | Tues 2/9 | Weds 2/10 | Thurs 2/11 | Fri 2/12 |
