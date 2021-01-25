@@ -4,6 +4,8 @@ Join us for **Love Data Week 2021**, February 8-12, for a full slate of workshop
 
 What is Love Data Week? It's a time to celebrate working with and managing research data and code, brought to you by your friendly neighborhood data librarians. 
 
+Want to make it social media official? Follow [**#LoveDataPgh**](https://twitter.com/search?q=%23lovedatapgh) on Twitter!
+
 ## Love Data Week at a glance
 <!--
 |Date|Events|
