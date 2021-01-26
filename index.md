@@ -35,7 +35,7 @@ More info and RSVP: [https://cmu.libcal.com/event/7395150](https://cmu.libcal.co
 More info and RSVP: [https://www.hsls.pitt.edu/instruction/introduction-research-data-management/3074](https://www.hsls.pitt.edu/instruction/introduction-research-data-management/3074)
 
 ## Tuesday, 2/9
-### <a name="tues-hsls-1"></a>Data Management in R (Pitt credentials required)
+### <a name="tues-hsls-1"></a>Data Management in R (Pitt only)
 **11 AM-12:30 PM** // hosted by the Health Sciences Library System @ The University of Pittsburgh
 >This course will consist of a flipped classroom – a pre-recorded video and a hands-on workshop – which will cover the more advanced topics in R programming for data analysis and graphics. Upon completion participants will be able to: Import and export data; Merge datasets; Transform data; Create basic summaries of data
 
@@ -95,7 +95,7 @@ More info and RSVP: [https://www.hsls.pitt.edu/instruction/mapping-geographic-da
 ## ...and what else?
 We love data all year! This is just a small sampling of our workshops. Check out the upcoming events at these institutions:
 * [CMU Libraries](https://cmu.libcal.com/calendar/events/?cid=-1&t=m&d=0000-00-00&cal=-1&inc=0)
-* [Pitt Health Sciences Library System](https://www.hsls.pitt.edu/calendar)
+* [Pitt Health Sciences Library System](https://www.hsls.pitt.edu/data-services/classes-and-training)
 * [Pitt University Library System](https://pitt.libcal.com/calendar/today/?cid=2274&t=d&d=0000-00-00&cal=2274&inc=0)
 
 ---
