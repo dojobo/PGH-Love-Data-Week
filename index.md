@@ -103,21 +103,30 @@ We love data all year! This is just a small sampling of our workshops. Check out
 ### <a name="labarchives"></a>LabArchives ELN events
 #### Creating Templates to Standardize the Collection and Management of Data (30 minutes)
 > We recommend using templates in LabArchives to create a consistent entry format for documenting and tracking information. Once created, this form can be reused by all members of the notebook to provide consistency and a clear list of data requirements. Join this session to see examples of templates, how you can create your own, and reuse them.
-Monday, February 8 10:00 a.m. EST / 3:00 p.m. GMT
-Wednesday, February 10 3:00 p.m. EST / 12:00 p.m. PST
-[Register here](https://labarchives.zoom.us/webinar/register/WN_f_TZSCJgR-OwsP6spdn0eg) for the session that works best with your schedule.
+>
+>Monday, February 8 10:00 a.m. EST / 3:00 p.m. GMT
+>
+>Wednesday, February 10 3:00 p.m. EST / 12:00 p.m. PST
+>
+>[Register here](https://labarchives.zoom.us/webinar/register/WN_f_TZSCJgR-OwsP6spdn0eg) for the session that works best with your schedule.
 
 #### Best Practices and Tips for Establishing Your Notebook’s Structure (30 minutes)
 > The LabArchives Research Notebook begins as a blank slate that is meant to be flexible so that you can customize the structure to complement current workflows. Join this session for a closer look at how you can use our built-in layouts or set up a notebook using other popular structures including: project and grant-based, individual researcher-based notebooks, date-based, or team and company notebooks to manage shared materials for reference purposes.
-Monday, February 8 3:00 p.m. EST / 12:00 p.m. PST
-Tuesday, February 9 10:00 a.m. EST / 3:00 p.m. GMT
-[Register here](https://labarchives.zoom.us/webinar/register/WN_uRaTruCCQLu8CRABJqMEWg) for the session that works best with your schedule.
+>
+>Monday, February 8 3:00 p.m. EST / 12:00 p.m. PST
+>
+>Tuesday, February 9 10:00 a.m. EST / 3:00 p.m. GMT
+>
+>[Register here](https://labarchives.zoom.us/webinar/register/WN_uRaTruCCQLu8CRABJqMEWg) for the session that works best with your schedule.
 
 #### Open Office Hours and Drop-in Consults (60 minutes)
 > Bring your questions (big or small) to this session and meet directly with one of our team members. We will be available for quick screen shares for feature questions and demos, and to discuss best practices and tips that are most relevant to you. Drop-in any time during the hour to speak with us. Registration is required.
-Not a good time for you? Remember that you can set up consults directly through our support team at support@labarchives.com.
-Thursday, February 11 2:00 p.m. EST / 11:00 a.m. PST
-[Register here.](https://labarchives.zoom.us/webinar/register/WN_o4zBnRUPSYKPsMCnpocDwA)
+>
+>Not a good time for you? Remember that you can set up consults directly through our support team at support@labarchives.com.
+>
+>Thursday, February 11 2:00 p.m. EST / 11:00 a.m. PST
+>
+>[Register here.](https://labarchives.zoom.us/webinar/register/WN_o4zBnRUPSYKPsMCnpocDwA)
 
 
 ---
