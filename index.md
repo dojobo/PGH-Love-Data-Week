@@ -4,6 +4,8 @@ Join us for **Love Data Week 2021**, February 8-12, for a full slate of workshop
 
 What is Love Data Week? It's a time to celebrate working with and managing research data and code, brought to you by your friendly neighborhood data librarians. 
 
+This year, LabArchives, providers of the electronic lab notebook (ELN) software platform of the same name, are offering several free online events as well. [Check out their listings](#labarchives) if ELN software interests you.
+
 ### Love Data Week at a glance
 
 |Date|Events|
@@ -14,10 +16,6 @@ What is Love Data Week? It's a time to celebrate working with and managing resea
 |Thurs 2/11|<ul><li>[Command Line Basics: Question Hour, 12-1 PM](#thurs-hsls-1)</li><li>[Data Mgmt for Qualitative Data, 12-1 PM](#thurs-cmu-1)</li><li>[Intro to Glitch Art, 2-3:30 PM](#thurs-uls-1)</li></ul>|
 |Fri 2/12|<ul><li>[Mapping Geographic Data with Tableau, 2-3:30 PM](#fri-hsls-1)</li></ul>|
 
-<!--
-| Mon 2/8 | Tues 2/9 | Weds 2/10 | Thurs 2/11 | Fri 2/12 |
-|---------|----------|-----------|------------|----------|
-| [Data Vis. Recommended Practices, 12-1 PM](#mon-cmu-1)<br><br>[Intro to Research Data Mgmt, 2-3 PM](#mon-hsls-1) | [Data Mgmt in R *(Pitt only)*, 11 AM-12:30 PM](#tues-hsls-1)<br><br>[Data Love Letters, 1-2 PM](#tues-uls-1) | [Social Justice and Publicly Available Data, 10-11 AM](#weds-hsls-1)<br><br>[Cleaning Untidy Data with OpenRefine, 12-1 PM](#weds-cmu-1)<br><br>[Increase Your Data's Discoverability with the Pitt Data Catalog, 1:30-2:30 PM](#weds-hsls-2) | [Command Line Basics: Question Hour, 12-1 PM](#thurs-hsls-1)<br><br>[Data Mgmt for Qualitative Data, 12-1 PM](#thurs-cmu-1)<br><br>[Intro to Glitch Art, 2-3:30 PM](#thurs-uls-1) | [Mapping Geographic Data with Tableau, 2-3:30 PM](#fri-hsls-1) |-->
 
 ----------
 
@@ -92,11 +90,43 @@ More info and RSVP: [https://pitt.libcal.com/event/7347410](https://pitt.libcal.
 
 More info and RSVP: [https://www.hsls.pitt.edu/instruction/mapping-geographic-data-tableau/5435](https://www.hsls.pitt.edu/instruction/mapping-geographic-data-tableau/5435)
 
+---
+
 ## ...and what else?
 We love data all year! This is just a small sampling of our workshops. Check out the upcoming events at these institutions:
 * [CMU Libraries](https://cmu.libcal.com/calendar/events/?cid=-1&t=m&d=0000-00-00&cal=-1&inc=0)
 * [Pitt Health Sciences Library System](https://www.hsls.pitt.edu/data-services/classes-and-training)
 * [Pitt University Library System](https://pitt.libcal.com/calendar/today/?cid=2274&t=d&d=0000-00-00&cal=2274&inc=0)
+
+---
+
+### <a name="labarchives"></a>LabArchives ELN events
+#### Creating Templates to Standardize the Collection and Management of Data (30 minutes)
+>We recommend using templates in LabArchives to create a consistent entry format for documenting and tracking information. Once created, this form can be reused by all members of the notebook to provide consistency and a clear list of data requirements. Join this session to see examples of templates, how you can create your own, and reuse them. 
+>
+>Monday, February 8 10:00 a.m. EST / 3:00 p.m. GMT
+>
+>Wednesday, February 10 3:00 p.m. EST / 12:00 p.m. PST
+>
+>[Register here](https://labarchives.zoom.us/webinar/register/WN_f_TZSCJgR-OwsP6spdn0eg) for the session that works best with your schedule.
+
+#### Best Practices and Tips for Establishing Your Notebook’s Structure (30 minutes)
+>The LabArchives Research Notebook begins as a blank slate that is meant to be flexible so that you can customize the structure to complement current workflows. Join this session for a closer look at how you can use our built-in layouts or set up a notebook using other popular structures including: project and grant-based, individual researcher-based notebooks, date-based, or team and company notebooks to manage shared materials for reference purposes. 
+>
+>Monday, February 8 3:00 p.m. EST / 12:00 p.m. PST
+>
+>Tuesday, February 9 10:00 a.m. EST / 3:00 p.m. GMT
+>
+>[Register here](https://labarchives.zoom.us/webinar/register/WN_uRaTruCCQLu8CRABJqMEWg) for the session that works best with your schedule. 
+
+#### Open Office Hours and Drop-in Consults (60 minutes)
+>Bring your questions (big or small) to this session and meet directly with one of our team members. We will be available for quick screen shares for feature questions and demos, and to discuss best practices and tips that are most relevant to you. Drop-in any time during the hour to speak with us. Registration is required. 
+>
+>Not a good time for you? Remember that you can set up consults directly through our support team at support@labarchives.com. 
+>
+>Thursday, February 11 2:00 p.m. EST / 11:00 a.m. PST
+>
+>[Register here.](https://labarchives.zoom.us/webinar/register/WN_o4zBnRUPSYKPsMCnpocDwA)
 
 ---
 This page is a collaboration between folx at CMU Libraries, Pitt Health Sciences Library System, and Pitt University Library System.
