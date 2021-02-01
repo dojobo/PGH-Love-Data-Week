@@ -6,7 +6,7 @@ What is Love Data Week? It's a time to celebrate working with and managing resea
 
 Want to make it social media official? Follow [**#LoveDataPgh**](https://twitter.com/search?q=%23lovedatapgh) on Twitter!
 
-This year, LabArchives, providers of the electronic lab notebook (ELN) software platform of the same name, are offering several free online events as well. Check out [their listings](#labarchives) if ELN software interests you.
+This year, [LabArchives](https://www.labarchives.com/), providers of the electronic lab notebook (ELN) software platform of the same name, are offering several free online events as well. Check out [their listings](#labarchives) if ELN software interests you.
 
 ## Love Data Week at a glance
 
