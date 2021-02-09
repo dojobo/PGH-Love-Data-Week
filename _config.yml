@@ -1,2 +1,4 @@
 theme: jekyll-theme-merlot
 title: Love Data Week PGH
+plugins:
+  - jekyll-redirect-from
