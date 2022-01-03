@@ -1,96 +1,100 @@
 ♥ Pittsburgh loves data! ♥
 
-Join us for **Love Data Week 2021**, February 8-12, for a full slate of workshops and presentations designed to help you work more effectively with your research data and code.
+Join us for **Love Data Week 2022**, February 14-18, for a collection of fascinating, data-oriented research talks, and hands-on software skills workshops.
 
-What is Love Data Week? It's a time to celebrate working with and managing research data and code, brought to you by your friendly neighborhood data librarians. 
+This year, we are excited to invite the following Pitt community members to present about their research: 
+
+* [Prof. Edouard Machery](https://www.hps.pitt.edu/people/edouard-machery), Director, Center for Philosophy of Science
+* [Dr. Aaron Myers-Brooks](https://www.music.pitt.edu/people/aaron-myers-brooks), Department of Music Faculty
+* [Haihui Zhang](https://pitt.libguides.com/haihuizhang), Head, East Asian Library, and lead for the Contemporary Chinese Village Gazeteer Data project
+
+What is Love Data Week? It's a time to celebrate working with and managing data and code, brought to you by your friendly neighborhood data librarians. 
 
 Want to make it social media official? Follow [**#LoveDataPgh**](https://twitter.com/search?q=%23lovedatapgh) on Twitter!
 
-This year, [LabArchives](https://www.labarchives.com/), providers of the electronic lab notebook (ELN) software platform of the same name, are offering several free online events as well. Check out [their listings](#labarchives) if ELN software interests you.
+----------
 
-## Love Data Week at a glance
+## Monday, 2/14
+### <a name="mon-uls-1"></a>Getting Started in R and R Studio (Online)
+**12-1pm**, Zoom
+>R is a free, open-source software package and programming language for working with data, especially statistical analysis. RStudio is a popular software environment and toolset for using R. In this one-hour, online workshop, we will become oriented within the RStudio environment and explore in a cursory way several common tasks for data work, such as examining and filtering data, generating linear models, and creating simple plots. Participants are welcome to follow along hands-on or merely watch.
+>
+>Can't make it to this workshop? Check out our other R workshops! You can also always contact us with your questions about this and other data-related topics.
 
-|Date|Events|
-|---|---|
-|**Mon**<br>**2/8** |{::nomarkdown}<ul><li><a href="https://lovedatapgh.io/#mon-cmu-1">Data Vis. Recommended Practices, 12-1 PM</a></li><li><a href="https://lovedatapgh.io/#mon-hsls-1">Intro to Research Data Mgmt, 2-3 PM</a></li></ul>{:/}|
-|**Tues**<br>**2/9** |{::nomarkdown}<ul><li><a href="https://lovedatapgh.io/#tues-hsls-1">Data Mgmt in R <strong>(Pitt only)</strong>, 11 AM-12:30 PM</a></li><li><a href="https://lovedatapgh.io/#tues-uls-1">Data Love Letters, 1-2 PM</a></li></ul>{:/}|
-|**Weds**<br>**2/10** |{::nomarkdown}<ul><li><a href="https://lovedatapgh.io/#weds-hsls-1">Social Justice and Publicly Available Data, 10-11 AM</a></li><li><a href="https://lovedatapgh.io/#weds-cmu-1">Cleaning Untidy Data with OpenRefine, 12-1 PM</a></li><li><a href="https://lovedatapgh.io/#weds-hsls-2">Increase Your Data's Discoverability with the Pitt Data Catalog, 1:30-2:30 PM</a></li></ul>{:/}| 
-|**Thurs**<br>**2/11** |{::nomarkdown}<ul><li><a href="https://lovedatapgh.io/#thurs-hsls-1">Command Line Basics: Question Hour, 12-1 PM</a></li><li><a href="https://lovedatapgh.io/#thurs-cmu-1">Data Mgmt for Qualitative Data, 12-1 PM</a></li><li><a href="https://lovedatapgh.io/#thurs-uls-1">Intro to Glitch Art, 2-3:30 PM</a></li></ul>{:/}|
-|**Fri**<br>**2/12** |{::nomarkdown}<ul><li><a href="https://lovedatapgh.io/#fri-hsls-1">Mapping Geographic Data with Tableau, 10-11 AM</a></li></ul>{:/}|
+More info and RSVP: [https://pitt.libcal.com/event/8670585](https://pitt.libcal.com/event/8670585)
 
+### <a name="mon-uls-2"></a>R and RStudio Open Office Hour (On Campus)
+**5-6pm**, Hillman Library, G-74 Amy Knapp Room
+>Users of R and RStudio are invited to bring their questions to this weekly in-person office hour. Tutoring-style assistance is offered. If we don’t know the answer, we’ll help you look for it!
+
+More info and RSVP: [https://pitt.libcal.com/event/8671418](https://pitt.libcal.com/event/8671418)
 
 ----------
 
-## Monday, 2/8
-### <a name="mon-cmu-1"></a>Data Visualization Recommended Practices
-**12-1pm** // hosted by the Carnegie Mellon University Libraries
->Data visualization, or the techniques used to visually display or communicate data, is an obvious output of our research or data analysis. Being able to effectively communicate your data to an audience is a necessary part of any project. How to harness visualization tools to tell a story will be presented in this short workshop. We will discuss how different types of graphs and charts are perceived and how they can be used to answer different questions, as well as what aspects of graphs make for effective storytelling.
+## Tuesday, 2/15
+### <a name="tues-uls-1"></a>Data Sharing for Open Science (Online)
+**12:30-1pm**, Zoom
+>Data sharing is a key component of Open Science, and a research practice increasingly sought by funders. In this online presentation, we will discuss what is meant by “data sharing;” motivations and considerations in sharing your data; and how to share your data in practical terms.
 
-More info and RSVP: [https://cmu.libcal.com/event/7395150](https://cmu.libcal.com/event/7395150)
+More info and RSVP: [https://pitt.libcal.com/event/8669324](https://pitt.libcal.com/event/8669324)
 
-### <a name="mon-hsls-1"></a>Introduction to Research Data Management
-**2-3 PM** // hosted by the Health Sciences Library System @ The University of Pittsburgh
->In this class, learn the fundamentals of keeping your data secure and organized through brief introductions to the core areas of data management: file storage and organization, file documentation, data preservation, and data publication and/or data sharing. This class is intended for graduate students and researchers who are working on long-term research projects, or for anyone who wants to make sure their personal files are safe for the long-term.
+### <a name="tues-uls-2"></a>Public 3D Scanning Events @ the Open Lab (On Campus)
+**1-4pm**, Hillman Library, Open Lab (Ground Floor)
+>Join us at the Open Lab @ Hillman on the ground floor for weekly 3D scanning demonstrations! No registration is required--just drop in.
 
-More info and RSVP: [https://www.hsls.pitt.edu/instruction/introduction-research-data-management/3074](https://www.hsls.pitt.edu/instruction/introduction-research-data-management/3074)
+----------
 
-## Tuesday, 2/9
-### <a name="tues-hsls-1"></a>Data Management in R (Pitt credentials required)
-**11 AM-12:30 PM** // hosted by the Health Sciences Library System @ The University of Pittsburgh
->This course will consist of a flipped classroom – a pre-recorded video and a hands-on workshop – which will cover the more advanced topics in R programming for data analysis and graphics. Upon completion participants will be able to: Import and export data; Merge datasets; Transform data; Create basic summaries of data
+## Wednesday, 2/16
+### <a name="wed-uls-1"></a>Prof. Edouard Machery, Director, Center for Philosophy of Science (Title TBA)
+**12-1pm**, location and further details TBA
 
-More info and RSVP (registration limited to the Pitt community only): [https://www.hsls.pitt.edu/instruction/data-management-r/5515](https://www.hsls.pitt.edu/instruction/data-management-r/5515)
+----------
 
-### <a name="tues-uls-1"></a>Data Love Letters: How to Write a Data Management Plan for your Grant Proposal
-**1-2 PM** // hosted by the University Library System @ The University of Pittsburgh 
->A data management plan is like a love letter to your data. Data management planning is important for funding, but it also sets you up for success with best practices—this Valentine’s Day, show future-you how much you care. In this online presentation, we’ll discuss the salient features of a data management plan, and what funders look for.   
+## Thursday, 2/17
+### <a name="thurs-uls-1"></a>Data TLC: Organizing Data with Spreadsheets Part 1 (Online)
+**12-1pm**, Zoom
+>Good data organization is the foundation of any research project. Typically, we organize data in spreadsheets in ways that we as humans want to work with the data. However, computers require data to be structured in particular ways in order to use tools that make computation and analysis more efficient.
+>
+>In this workshop, participants will learn  
+>
+>* Common uses for spreadsheets
+>* Good data entry and formatting practices
+>* How to avoid common formatting mistakes  
+>
+>This workshop will not cover data analysis with spreadsheets but will focus on the important initial “data wrangling” stage that enables you to do proper analysis later.
 
-More info and RSVP: [https://pitt.libcal.com/event/7347355](https://pitt.libcal.com/event/7347355)
+More info and RSVP: [https://pitt.libcal.com/event/8671219](https://pitt.libcal.com/event/8671219)
 
-## Wednesday, 2/10
-### <a name="weds-hsls-1"></a>Social Justice and Publicly Available Data
-**10-11 AM** // hosted by the Health Sciences Library System @ The University of Pittsburgh
->The health of a population is significantly influenced by the environment in which they live. This workshop will utilize publicly available data sources to provide a means by which we can examine the intersection of health with income, education, pollution, housing, and healthy/risky behaviors.
+### <a name="thurs-uls-2"></a>Data TLC: Organizing Data with Spreadsheets Part 2 (Online)
+**1-2pm**, Zoom
+>Good data organization is the foundation of any research project. Typically, we organize data in spreadsheets in ways that we as humans want to work with the data. However, computers require data to be structured in particular ways in order to use tools that make computation and analysis more efficient.
+>
+>In this workshop, participants will learn  
+>
+>* How to document data for future use
+>* Basic quality control and data manipulation in spreadsheets
+>* How to export data from spreadsheets
+>
+> This workshop will not cover data analysis with spreadsheets but will focus on the important initial “data wrangling” stage that enables you to do proper analysis later.
 
-More information and RSVP: [https://www.hsls.pitt.edu/instruction/social-justice-and-publicly-available-data/4997](https://www.hsls.pitt.edu/instruction/social-justice-and-publicly-available-data/4997)
+More info and RSVP: [https://pitt.libcal.com/event/8671226](https://pitt.libcal.com/event/8671226)
 
-### <a name="weds-cmu-1"></a>Cleaning Untidy Data with OpenRefine 
-**12-1pm** // hosted by the Carnegie Mellon University Libraries
->Tired of spending hours and hours cleaning messy data in Excel spreadsheets? Come learn OpenRefine, an easy-to-use, open source tool for data cleaning. OpenRefine (formerly Google Refine) helps you prepare your data for analysis. Quickly and easily transform data, split and merge columns, remove whitespace, and perform many more common data cleaning tasks. With OpenRefine, you can also easily create JSON scripts for repeating series of tasks across multiple datasets. No previous experience required.
+----------
 
-More info and RSVP: [https://cmu.libcal.com/event/7336588](https://cmu.libcal.com/event/7336588)
+## Friday, 2/18
+### <a name="fri-uls-1"></a>Data and Music: Dr. Aaron Myers-Brooks, Pitt Department of Music faculty
+**12-1pm**, Hillman Library, G-74 Amy Knapp Rm.
+>Electronic Music presents a fascinating opportunity for the mixing and matching of disparate input and output data. My presentation will demonstrate three very different input methods, which will generate three very different sonic results. I will begin with drawings generated in HighC, a piece of software based around 20th century composer Iannis Xenakis’s UPIC program. These drawings will generate synthesized soundscapes. I will then perform an improvised hip-hop beat using a video game controller in conjunction with Ableton Live. Finally, I will demonstrate an excerpt from an in progress piece for microtonal guitar and real time effects processing.
 
-### <a name="weds-hsls-2"></a>Increase Your Data's Discoverability with the Pitt Data Catalog
-**1:30-2:30 PM** // hosted by the Health Sciences Library System @ The University of Pittsburgh
->The Pitt Data Catalog (PDC) is a platform to help University of Pittsburgh health sciences researchers share and discover datasets, software, and code. This workshop will highlight how the catalog can be used to increase visibility of your research outputs and act as a low-barrier way to make data discoverable without the need to deposit into a data repository.
+Registration link forthcoming
 
-More info and RSVP: [https://www.hsls.pitt.edu/instruction/increase-your-datas-discoverability-pitt-data-catalog/3707](https://www.hsls.pitt.edu/instruction/increase-your-datas-discoverability-pitt-data-catalog/3707)
+### <a name="fri-uls-2"></a>Intro to Glitch Art (Online)
+**1-2pm**, Zoom
+>This online workshop will cover some of the various tools and techniques associated with the creation of Glitch Art. In addition, participants will be introduced to some of the history and conceptual theories surrounding glitch and Glitch Art.
+>
+>This workshop will use hex editor Notepad++ (PC, make sure to use 32 bit version) or Hex Fiend (Mac) and audio editing software Audacity for data bending. Please download both ahead of time if you want to follow along.
 
-## Thursday, 2/11
-### <a name="thurs-hsls-1"></a>Command Line Basics: Question Hour
-**12-1 PM** // hosted by the Health Sciences Library System @ The University of Pittsburgh
->Have questions about getting started with command line? Register to receive access to a pre-recorded video covering the basics of command line skills for data analysis and a practice dataset.  Topics covered include: accessing Pitt Center for Research Computing clusters via Unix/Linux shell, transferring files using FileZilla, creating and managing files and directories, editing file using vi text editor, and accessing open source bioinformatics software. Attend the scheduled session to get answers to your questions and hear from others.
-
-More info and RSVP: [https://www.hsls.pitt.edu/instruction/command-line-basics-questions-hour/5434](https://www.hsls.pitt.edu/instruction/command-line-basics-questions-hour/5434)
-
-### <a name="thurs-cmu-1"></a>Data Management for Qualitative Data 
-**12-1pm** // hosted by the Carnegie Mellon University Libraries
->Research data management education provides guidance on how researchers can effectively manage their data to increase the scholarly impact from their research. However, guidelines for data management may vary significantly across domain areas. All domain areas engage with data in some manner, with the caveat that the physical form of these data may differ visually and structurally. Researchers specializing in qualitative data engage with many unique forms of data, including photographs, film, literature, ethnographies, and audiovisual materials, all with their own considerations for how to effectively manage them. This workshop will provide data management tips and tips specifically aimed at qualitative researchers from all levels (students, staff, and faculty), including how to clean data, develop file-naming schemes, and store your data securely.
-
-More info and RSVP: [https://cmu.libcal.com/event/7328485](https://cmu.libcal.com/event/7328485)
-
-### <a name="thurs-uls-1"></a>Introduction to Glitch Art
-**2-3:30 PM** // hosted by the University Library System @ The University of Pittsburgh 
->This online workshop will cover some of the various tools and techniques associated with the creation of Glitch Art. In addition, participants will be introduced to some of the history and conceptual theories surrounding glitch and Glitch Art.  
-
-More info and RSVP: [https://pitt.libcal.com/event/7347410](https://pitt.libcal.com/event/7347410)
-
-## Friday, 2/12
-### <a name="fri-hsls-1"></a>Mapping Geographic Data with Tableau
-**10-11 AM** // hosted by the Health Sciences Library System @ The University of Pittsburgh
->This workshop will provide an introduction to mapping and analyzing geographic data using Tableau.
-
-More info and RSVP: [https://www.hsls.pitt.edu/instruction/mapping-geographic-data-tableau/5435](https://www.hsls.pitt.edu/instruction/mapping-geographic-data-tableau/5435)
+More info and RSVP: [https://pitt.libcal.com/event/8671329](https://pitt.libcal.com/event/8671329)
 
 ## ...and what else?
 We love data all year! This is just a small sampling of our workshops. Check out the upcoming events at these institutions:
@@ -99,35 +103,4 @@ We love data all year! This is just a small sampling of our workshops. Check out
 * [Pitt University Library System](https://pitt.libcal.com/calendar/today/?cid=2274&t=d&d=0000-00-00&cal=2274&inc=0)
 
 ---
-
-### <a name="labarchives"></a>LabArchives ELN events
-#### Creating Templates to Standardize the Collection and Management of Data (30 minutes)
-> We recommend using templates in LabArchives to create a consistent entry format for documenting and tracking information. Once created, this form can be reused by all members of the notebook to provide consistency and a clear list of data requirements. Join this session to see examples of templates, how you can create your own, and reuse them.
->
->Monday, February 8 10:00 a.m. EST / 3:00 p.m. GMT
->
->Wednesday, February 10 3:00 p.m. EST / 12:00 p.m. PST
->
->[Register here](https://labarchives.zoom.us/webinar/register/WN_f_TZSCJgR-OwsP6spdn0eg) for the session that works best with your schedule.
-
-#### Best Practices and Tips for Establishing Your Notebook’s Structure (30 minutes)
-> The LabArchives Research Notebook begins as a blank slate that is meant to be flexible so that you can customize the structure to complement current workflows. Join this session for a closer look at how you can use our built-in layouts or set up a notebook using other popular structures including: project and grant-based, individual researcher-based notebooks, date-based, or team and company notebooks to manage shared materials for reference purposes.
->
->Monday, February 8 3:00 p.m. EST / 12:00 p.m. PST
->
->Tuesday, February 9 10:00 a.m. EST / 3:00 p.m. GMT
->
->[Register here](https://labarchives.zoom.us/webinar/register/WN_uRaTruCCQLu8CRABJqMEWg) for the session that works best with your schedule.
-
-#### Open Office Hours and Drop-in Consults (60 minutes)
-> Bring your questions (big or small) to this session and meet directly with one of our team members. We will be available for quick screen shares for feature questions and demos, and to discuss best practices and tips that are most relevant to you. Drop-in any time during the hour to speak with us. Registration is required.
->
->Not a good time for you? Remember that you can set up consults directly through our support team at support@labarchives.com.
->
->Thursday, February 11 2:00 p.m. EST / 11:00 a.m. PST
->
->[Register here.](https://labarchives.zoom.us/webinar/register/WN_o4zBnRUPSYKPsMCnpocDwA)
-
-
----
-This page is a collaboration between folx at CMU Libraries, Pitt Health Sciences Library System, and Pitt University Library System.
+This page is a collaboration between folx at the Pitt University Library System and Pitt Health Sciences Library System.
