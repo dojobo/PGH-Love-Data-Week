@@ -2,7 +2,7 @@
 
 Join us for **Love Data Week 2022**, February 14-18, for a collection of fascinating, data-oriented research talks, and hands-on software skills workshops.
 
-This year, we are excited to invite the following Pitt community members to present about their research: 
+This year, we are excited to invite the following Pitt community members to present about their research and art: 
 
 * [Prof. Edouard Machery](https://www.hps.pitt.edu/people/edouard-machery), Director, Center for Philosophy of Science
 * [Dr. Aaron Myers-Brooks](https://www.music.pitt.edu/people/aaron-myers-brooks), Department of Music Faculty
