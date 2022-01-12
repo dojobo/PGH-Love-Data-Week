@@ -4,9 +4,13 @@ Join us for **Love Data Week 2022**, February 14-18, for a collection of fascina
 
 This year, we are excited to invite the following Pitt community members to present about their research and art: 
 
+* [Prof. Sergey Frolov](https://www.physicsandastronomy.pitt.edu/people/sergey-frolov), Department of Physics and Astronomy faculty
 * [Prof. Edouard Machery](https://www.hps.pitt.edu/people/edouard-machery), Director, Center for Philosophy of Science
 * [Dr. Aaron Myers-Brooks](https://www.music.pitt.edu/people/aaron-myers-brooks), Department of Music Faculty
-* [Haihui Zhang](https://pitt.libguides.com/haihuizhang), Head, East Asian Library, and lead for the Contemporary Chinese Village Gazeteer Data project
+* Some members of the [Contemporary Chinese Village Gazeteer Data](http://www.chinesevillagedata.library.pitt.edu/) project:
+  * [Prof. Daqing  He](https://www.sci.pitt.edu/people/daqing-he), Associate Chair, Department of Informatics and Networked Systems
+  * [Haihui Zhang](https://pitt.libguides.com/haihuizhang), Head, East Asian Library, and lead for the Contemporary Chinese Village Gazeteer Data project
+  * Ruoyun Zheng, Project Coordinator of the Student Team
 
 What is Love Data Week? It's a time to celebrate working with and managing data and code, brought to you by your friendly neighborhood data librarians. 
 
@@ -70,6 +74,19 @@ More info and RSVP: [https://pitt.libcal.com/event/8669324](https://pitt.libcal.
 
 ## Thursday, 2/17
 ### Spreadsheet Data Organization Workshops, 12-2pm
+#### for Health Sciences users: Data Organization in Spreadsheets (Online)
+**12-1:30pm**, Zoom, hosted by Health Sciences Library System
+>After this session you will be able to answer:
+>
+>* What are some common challenges with formatting data in spreadsheets and how can we avoid them?
+>* How can we carry out basic quality assurance in spreadsheets?
+>* How can we export data from spreadsheets in a way that is useful for downstream applications?
+>In this hands-on class we will be using the built in data validation tools in Excel, therefore please have access to a computer with this program installed if you plan on following along. 
+>
+>Note: We will not be covering data analysis or statistics in this session. 
+
+More info and RSVP: [https://www.hsls.pitt.edu/instruction/data-organization-spreadsheets/5837](https://www.hsls.pitt.edu/instruction/data-organization-spreadsheets/5837)
+
 #### for Lower Campus users: Data TLC: Organizing Data with Spreadsheets Part 1 (Online)
 **12-1pm**, Zoom, hosted by University Library System
 >Good data organization is the foundation of any research project. Typically, we organize data in spreadsheets in ways that we as humans want to work with the data. However, computers require data to be structured in particular ways in order to use tools that make computation and analysis more efficient.
@@ -84,7 +101,7 @@ More info and RSVP: [https://pitt.libcal.com/event/8669324](https://pitt.libcal.
 
 More info and RSVP: [https://pitt.libcal.com/event/8671219](https://pitt.libcal.com/event/8671219)
 
-#### for Lower Campus users: Data TLC: Organizing Data with Spreadsheets Part 2 (Online)
+#### Data TLC: Organizing Data with Spreadsheets Part 2 (Online)
 **1-2pm**, Zoom, hosted by University Library System
 >Good data organization is the foundation of any research project. Typically, we organize data in spreadsheets in ways that we as humans want to work with the data. However, computers require data to be structured in particular ways in order to use tools that make computation and analysis more efficient.
 >
@@ -98,29 +115,21 @@ More info and RSVP: [https://pitt.libcal.com/event/8671219](https://pitt.libcal.
 
 More info and RSVP: [https://pitt.libcal.com/event/8671226](https://pitt.libcal.com/event/8671226)
 
-#### for Health Sciences users: Data Organization in Spreadsheets (Online)
-**12-1:30pm**, Zoom, hosted by Health Sciences Library System
->After this session you will be able to answer:
->
->* What are some common challenges with formatting data in spreadsheets and how can we avoid them?
->* How can we carry out basic quality assurance in spreadsheets?
->* How can we export data from spreadsheets in a way that is useful for downstream applications?
->In this hands-on class we will be using the built in data validation tools in Excel, therefore please have access to a computer with this program installed if you plan on following along. 
->
->Note: We will not be covering data analysis or statistics in this session. 
 
-More info and RSVP: [https://www.hsls.pitt.edu/instruction/data-organization-spreadsheets/5837](https://www.hsls.pitt.edu/instruction/data-organization-spreadsheets/5837)
 
 ----------
 
 ## Friday, 2/18
-### <a name="fri-uls-1"></a>Data and Music: Dr. Aaron Myers-Brooks, Pitt Department of Music faculty
+### <a name="fri-uls-1"></a>Contemporary Chinese Village Gazetteer Data project (Title TBA)
+**10-11am**, location and further details TBA, hosted by University Library System
+
+### <a name="fri-uls-2"></a>Data and Music: Dr. Aaron Myers-Brooks, Pitt Department of Music faculty
 **12-1pm**, Hillman Library, G-74 Amy Knapp Rm., hosted by University Library System
 >Electronic Music presents a fascinating opportunity for the mixing and matching of disparate input and output data. My presentation will demonstrate three very different input methods, which will generate three very different sonic results. I will begin with drawings generated in HighC, a piece of software based around 20th century composer Iannis Xenakis’s UPIC program. These drawings will generate synthesized soundscapes. I will then perform an improvised hip-hop beat using a video game controller in conjunction with Ableton Live. Finally, I will demonstrate an excerpt from an in progress piece for microtonal guitar and real time effects processing.
 
 Registration link forthcoming
 
-### <a name="fri-uls-2"></a>Intro to Glitch Art (Online)
+### <a name="fri-uls-3"></a>Intro to Glitch Art (Online)
 **1-2pm**, Zoom, hosted by University Library System
 >This online workshop will cover some of the various tools and techniques associated with the creation of Glitch Art. In addition, participants will be introduced to some of the history and conceptual theories surrounding glitch and Glitch Art.
 >
