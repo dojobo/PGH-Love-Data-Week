@@ -1,4 +1,6 @@
-# Love Data Week at Pitt
+---
+title: Love Data Week at Pitt
+---
 
 ♥ Pitt loves data! ♥
 
