@@ -20,6 +20,8 @@ What is Love Data Week? It's a time to celebrate working with and managing data 
 
 Want to make it social media official? Follow [**#LoveDataPgh**](https://twitter.com/search?q=%23lovedatapgh) on Twitter!
 
+![Love Data Week 2022 at Pitt](assets/LoveDataWeek2022_HSLSBanner_.png)
+
 ----------
 
 ## Love Data Week at a glance
