@@ -1,4 +1,6 @@
-♥ Pittsburgh loves data! ♥
+# Love Data Week at Pitt
+
+♥ Pitt loves data! ♥
 
 Join us for **Love Data Week 2022**, February 14-18, for a collection of fascinating, data-oriented research talks, and hands-on software skills workshops.
 
