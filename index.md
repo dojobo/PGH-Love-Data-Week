@@ -18,6 +18,17 @@ Want to make it social media official? Follow [**#LoveDataPgh**](https://twitter
 
 ----------
 
+## Love Data Week at a glance
+Click titles to jump to full descriptions below.
+
+Monday, 2/14: [Getting Started in R and R Studio](#mon-uls-1) &mdash; [Preparing for the New NIH Data Management & Sharing Plan](#mon-hsls-1) &mdash; [R and RStudio Open Office Hour](#mon-uls-2)\
+Tuesday, 2/15: Publicly Available Social Justice Data &mdash; Data Sharing for Open Science &mdash; Public 3D Scanning Events @ the Open Lab\
+Wednesday, 2/16: Prof. Edouard Machery\
+Thursday, 2/17: Spreadsheet data organization workshops\
+Friday, 2/18: Contemporary Chinese Village Gazetteer Data project &mdash; Data and Music: Dr. Aaron Myers-Brooks &mdash; Intro to Glitch Art
+
+----------
+
 ## Monday, 2/14
 ### <a name="mon-uls-1"></a>Getting Started in R and R Studio (Online)
 **12-1pm**, Zoom, hosted by University Library System
@@ -25,7 +36,7 @@ Want to make it social media official? Follow [**#LoveDataPgh**](https://twitter
 
 More info and RSVP: [https://pitt.libcal.com/event/8670585](https://pitt.libcal.com/event/8670585)
 
-### Preparing for the New NIH Data Management & Sharing Plan: Session 1 -- Elements, Costs, & Tools (Online)
+### <a name="mon-hsls-1"></a>Preparing for the New NIH Data Management & Sharing Plan: Session 1 -- Elements, Costs, & Tools (Online)
 **12-1pm**, Zoom, hosted by Health Sciences Library System
 >NIH has a new policy going into effect on January 25, 2023 that will require NIH-funded researchers to prospectively submit a plan outlining how scientific data from their research will be managed and shared. This session will cover the plan’s elements and allowable costs as well as tools to help with your own plan creation.
 >
