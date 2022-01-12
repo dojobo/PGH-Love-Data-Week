@@ -10,3 +10,8 @@ $focusColour: #F23D3D !default;
 $captionColour: #F2F2F2 !default;
 
 @import "alembic";
+
+hr {
+    padding-bottom: 0.5rem !important;
+    padding-top: 0.5rem !important;
+}
