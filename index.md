@@ -16,15 +16,21 @@ Want to make it social media official? Follow [**#LoveDataPgh**](https://twitter
 
 ## Monday, 2/14
 ### <a name="mon-uls-1"></a>Getting Started in R and R Studio (Online)
-**12-1pm**, Zoom
+**12-1pm**, Zoom, hosted by University Library System
 >R is a free, open-source software package and programming language for working with data, especially statistical analysis. RStudio is a popular software environment and toolset for using R. In this one-hour, online workshop, we will become oriented within the RStudio environment and explore in a cursory way several common tasks for data work, such as examining and filtering data, generating linear models, and creating simple plots. Participants are welcome to follow along hands-on or merely watch.
->
->Can't make it to this workshop? Check out our other R workshops! You can also always contact us with your questions about this and other data-related topics.
 
 More info and RSVP: [https://pitt.libcal.com/event/8670585](https://pitt.libcal.com/event/8670585)
 
+### Preparing for the New NIH Data Management & Sharing Plan: Session 1 -- Elements, Costs, & Tools (Online)
+**12-1pm**, Zoom, hosted by Health Sciences Library System
+>NIH has a new policy going into effect on January 25, 2023 that will require NIH-funded researchers to prospectively submit a plan outlining how scientific data from their research will be managed and shared. This session will cover the plan’s elements and allowable costs as well as tools to help with your own plan creation.
+>
+>This session is the first in a three-part series. Session 2 will cover locating and evaluating repositories (the “where” of data sharing). Session 3 will cover writing up documentation and metadata (the “how” of data sharing). 
+
+More info and RSVP: [https://www.hsls.pitt.edu/instruction/preparing-new-nih-data-management-sharing-plan-session-1-elements-costs-tools/6796](https://www.hsls.pitt.edu/instruction/preparing-new-nih-data-management-sharing-plan-session-1-elements-costs-tools/6796)
+
 ### <a name="mon-uls-2"></a>R and RStudio Open Office Hour (On Campus)
-**5-6pm**, Hillman Library, G-74 Amy Knapp Room
+**5-6pm**, Hillman Library, G-74 Amy Knapp Room, hosted by University Library System
 >Users of R and RStudio are invited to bring their questions to this weekly in-person office hour. Tutoring-style assistance is offered. If we don’t know the answer, we’ll help you look for it!
 
 More info and RSVP: [https://pitt.libcal.com/event/8671418](https://pitt.libcal.com/event/8671418)
@@ -32,27 +38,40 @@ More info and RSVP: [https://pitt.libcal.com/event/8671418](https://pitt.libcal.
 ----------
 
 ## Tuesday, 2/15
+### Publicly Available Social Justice Data (Online)
+**8:30-10am**, Zoom, hosted by Health Sciences Library System
+>There are thousands of federal, state, and local government sites that link the public to their data. Like much of the internet, it is easy to get lost trying to find data useful to your research unless you know where to go. This class is designed to introduce participants to commonly used measures of social justice through publicly available data sites. We will begin by exploring data sites that focus on social justice issues, such as income, education, pollution, housing, and healthy/risky behaviors. The social justice sites pull data from the federal government but since data is generally the most up to date on the home organization, we will follow the trail to the agency that gathered the data initially to look for updates and explore for other valuable information.
+>
+>After taking this class, participants will be able to:
+>
+>* Identify the HSLS LibGuide that links to publicly available sources of data by topic
+>* Navigate social justice data sites
+>* Determine and locate the original sources of data found on the social justice data sites.
+
+More info and RSVP: [https://www.hsls.pitt.edu/instruction/publicly-available-social-justice-data/5831](https://www.hsls.pitt.edu/instruction/publicly-available-social-justice-data/5831)
+
 ### <a name="tues-uls-1"></a>Data Sharing for Open Science (Online)
-**12:30-1pm**, Zoom
+**12:30-1pm**, Zoom, hosted by University Library System
 >Data sharing is a key component of Open Science, and a research practice increasingly sought by funders. In this online presentation, we will discuss what is meant by “data sharing;” motivations and considerations in sharing your data; and how to share your data in practical terms.
 
 More info and RSVP: [https://pitt.libcal.com/event/8669324](https://pitt.libcal.com/event/8669324)
 
 ### <a name="tues-uls-2"></a>Public 3D Scanning Events @ the Open Lab (On Campus)
-**1-4pm**, Hillman Library, Open Lab (Ground Floor)
+**1-4pm**, Hillman Library, Open Lab (Ground Floor), hosted by University Library System
 >Join us at the Open Lab @ Hillman on the ground floor for weekly 3D scanning demonstrations! No registration is required--just drop in.
 
 ----------
 
 ## Wednesday, 2/16
 ### <a name="wed-uls-1"></a>Prof. Edouard Machery, Director, Center for Philosophy of Science (Title TBA)
-**12-1pm**, location and further details TBA
+**12-1pm**, location and further details TBA, hosted by University Library System
 
 ----------
 
 ## Thursday, 2/17
-### <a name="thurs-uls-1"></a>Data TLC: Organizing Data with Spreadsheets Part 1 (Online)
-**12-1pm**, Zoom
+### Spreadsheet Data Organization Workshops, 12-2pm
+#### for Lower Campus users: Data TLC: Organizing Data with Spreadsheets Part 1 (Online)
+**12-1pm**, Zoom, hosted by University Library System
 >Good data organization is the foundation of any research project. Typically, we organize data in spreadsheets in ways that we as humans want to work with the data. However, computers require data to be structured in particular ways in order to use tools that make computation and analysis more efficient.
 >
 >In this workshop, participants will learn  
@@ -65,8 +84,8 @@ More info and RSVP: [https://pitt.libcal.com/event/8669324](https://pitt.libcal.
 
 More info and RSVP: [https://pitt.libcal.com/event/8671219](https://pitt.libcal.com/event/8671219)
 
-### <a name="thurs-uls-2"></a>Data TLC: Organizing Data with Spreadsheets Part 2 (Online)
-**1-2pm**, Zoom
+#### for Lower Campus users: Data TLC: Organizing Data with Spreadsheets Part 2 (Online)
+**1-2pm**, Zoom, hosted by University Library System
 >Good data organization is the foundation of any research project. Typically, we organize data in spreadsheets in ways that we as humans want to work with the data. However, computers require data to be structured in particular ways in order to use tools that make computation and analysis more efficient.
 >
 >In this workshop, participants will learn  
@@ -79,17 +98,30 @@ More info and RSVP: [https://pitt.libcal.com/event/8671219](https://pitt.libcal.
 
 More info and RSVP: [https://pitt.libcal.com/event/8671226](https://pitt.libcal.com/event/8671226)
 
+#### for Health Sciences users: Data Organization in Spreadsheets (Online)
+**12-1:30pm**, Zoom, hosted by Health Sciences Library System
+>After this session you will be able to answer:
+>
+>* What are some common challenges with formatting data in spreadsheets and how can we avoid them?
+>* How can we carry out basic quality assurance in spreadsheets?
+>* How can we export data from spreadsheets in a way that is useful for downstream applications?
+>In this hands-on class we will be using the built in data validation tools in Excel, therefore please have access to a computer with this program installed if you plan on following along. 
+>
+>Note: We will not be covering data analysis or statistics in this session. 
+
+More info and RSVP: [https://www.hsls.pitt.edu/instruction/data-organization-spreadsheets/5837](https://www.hsls.pitt.edu/instruction/data-organization-spreadsheets/5837)
+
 ----------
 
 ## Friday, 2/18
 ### <a name="fri-uls-1"></a>Data and Music: Dr. Aaron Myers-Brooks, Pitt Department of Music faculty
-**12-1pm**, Hillman Library, G-74 Amy Knapp Rm.
+**12-1pm**, Hillman Library, G-74 Amy Knapp Rm., hosted by University Library System
 >Electronic Music presents a fascinating opportunity for the mixing and matching of disparate input and output data. My presentation will demonstrate three very different input methods, which will generate three very different sonic results. I will begin with drawings generated in HighC, a piece of software based around 20th century composer Iannis Xenakis’s UPIC program. These drawings will generate synthesized soundscapes. I will then perform an improvised hip-hop beat using a video game controller in conjunction with Ableton Live. Finally, I will demonstrate an excerpt from an in progress piece for microtonal guitar and real time effects processing.
 
 Registration link forthcoming
 
 ### <a name="fri-uls-2"></a>Intro to Glitch Art (Online)
-**1-2pm**, Zoom
+**1-2pm**, Zoom, hosted by University Library System
 >This online workshop will cover some of the various tools and techniques associated with the creation of Glitch Art. In addition, participants will be introduced to some of the history and conceptual theories surrounding glitch and Glitch Art.
 >
 >This workshop will use hex editor Notepad++ (PC, make sure to use 32 bit version) or Hex Fiend (Mac) and audio editing software Audacity for data bending. Please download both ahead of time if you want to follow along.
