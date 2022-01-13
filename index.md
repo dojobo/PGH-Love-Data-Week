@@ -4,7 +4,7 @@ title: Love Data Week at Pitt
 
 ♥ Pitt loves data! ♥
 
-Join us for **Love Data Week 2022**, February 14-18, for a collection of fascinating, data-oriented research talks, and hands-on software skills workshops.
+Join us for Love Data Week 2022, **February 14-18**, for a collection of fascinating, data-oriented research talks, explorations of art and data, and hands-on software skills workshops.
 
 This year, we are excited to invite the following Pitt community members to present about their research and art: 
 
@@ -25,13 +25,13 @@ Want to make it social media official? Follow [**#LoveDataPgh**](https://twitter
 ----------
 
 ## Love Data Week at a glance
-Click titles to jump to full descriptions below.
+Click titles to jump to full descriptions below. Researcher talks are in bold.
 
-Monday, 2/14: [Getting Started in R and R Studio](#mon-uls-1) &mdash; [Preparing for the New NIH Data Management & Sharing Plan](#mon-hsls-1) &mdash; [R and RStudio Open Office Hour](#mon-uls-2)\
-Tuesday, 2/15: Publicly Available Social Justice Data &mdash; Data Sharing for Open Science &mdash; Public 3D Scanning Events @ the Open Lab\
-Wednesday, 2/16: Prof. Edouard Machery\
-Thursday, 2/17: Spreadsheet data organization workshops\
-Friday, 2/18: Contemporary Chinese Village Gazetteer Data project &mdash; Data and Music: Dr. Aaron Myers-Brooks &mdash; Intro to Glitch Art
+Monday, 2/14: [Getting Started in R and R Studio](#mon-uls-1) &ndash; [Preparing for the New NIH Data Management & Sharing Plan](#mon-hsls-1) &ndash; [R and RStudio Open Office Hour](#mon-uls-2)\
+Tuesday, 2/15: [Publicly Available Social Justice Data](#tues-hsls-1) &ndash; [Data Sharing for Open Science](#tues-uls-1) &ndash; [Public 3D Scanning Events @ the Open Lab](#tues-uls-2)\
+Wednesday, 2/16: **[Prof. Edouard Machery](#wed-uls-1)**\
+Thursday, 2/17: [Spreadsheet data organization workshops](#spreadsheet)\
+Friday, 2/18: **[Contemporary Chinese Village Gazetteer Data project](#fri-uls-1)** &ndash; **[Data and Music: Dr. Aaron Myers-Brooks](#fri-uls-2)** &ndash; [Intro to Glitch Art](#fri-uls-3)
 
 ----------
 
@@ -59,7 +59,7 @@ More info and RSVP: [https://pitt.libcal.com/event/8671418](https://pitt.libcal.
 ----------
 
 ## Tuesday, 2/15
-### Publicly Available Social Justice Data (Online)
+### <a name="tues-hsls-1"></a>Publicly Available Social Justice Data (Online)
 **8:30-10am**, Zoom, hosted by Health Sciences Library System
 >There are thousands of federal, state, and local government sites that link the public to their data. Like much of the internet, it is easy to get lost trying to find data useful to your research unless you know where to go. This class is designed to introduce participants to commonly used measures of social justice through publicly available data sites. We will begin by exploring data sites that focus on social justice issues, such as income, education, pollution, housing, and healthy/risky behaviors. The social justice sites pull data from the federal government but since data is generally the most up to date on the home organization, we will follow the trail to the agency that gathered the data initially to look for updates and explore for other valuable information.
 >
@@ -90,7 +90,7 @@ More info and RSVP: [https://pitt.libcal.com/event/8669324](https://pitt.libcal.
 ----------
 
 ## Thursday, 2/17
-### Spreadsheet Data Organization Workshops, 12-2pm
+### <a name="spreadsheet"></a>Spreadsheet Data Organization Workshops, 12-2pm
 #### for Health Sciences users: Data Organization in Spreadsheets (Online)
 **12-1:30pm**, Zoom, hosted by Health Sciences Library System
 >After this session you will be able to answer:
