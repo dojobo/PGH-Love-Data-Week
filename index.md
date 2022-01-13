@@ -44,8 +44,7 @@ More info and RSVP: [https://pitt.libcal.com/event/8670585](https://pitt.libcal.
 
 ### <a name="mon-hsls-1"></a>Preparing for the New NIH Data Management & Sharing Plan: Session 1 -- Elements, Costs, & Tools (Online)
 **12-1pm**, Zoom, hosted by Health Sciences Library System
->NIH has a new policy going into effect on January 25, 2023 that will require NIH-funded researchers to prospectively submit a plan outlining how scientific data from their research will be managed and shared. This session will cover the plan’s elements and allowable costs as well as tools to help with your own plan creation.\
->This session is the first in a three-part series. Session 2 will cover locating and evaluating repositories (the “where” of data sharing). Session 3 will cover writing up documentation and metadata (the “how” of data sharing). 
+>NIH has a new policy going into effect on January 25, 2023 that will require NIH-funded researchers to prospectively submit a plan outlining how scientific data from their research will be managed and shared. This session will cover the plan’s elements and allowable costs as well as tools to help with your own plan creation. This session is the first in a three-part series. Session 2 will cover locating and evaluating repositories (the “where” of data sharing). Session 3 will cover writing up documentation and metadata (the “how” of data sharing). 
 
 More info and RSVP: [https://www.hsls.pitt.edu/instruction/preparing-new-nih-data-management-sharing-plan-session-1-elements-costs-tools/6796](https://www.hsls.pitt.edu/instruction/preparing-new-nih-data-management-sharing-plan-session-1-elements-costs-tools/6796)
 
@@ -61,12 +60,6 @@ More info and RSVP: [https://pitt.libcal.com/event/8671418](https://pitt.libcal.
 ### <a name="tues-hsls-1"></a>Publicly Available Social Justice Data (Online)
 **8:30-10am**, Zoom, hosted by Health Sciences Library System
 >There are thousands of federal, state, and local government sites that link the public to their data. Like much of the internet, it is easy to get lost trying to find data useful to your research unless you know where to go. This class is designed to introduce participants to commonly used measures of social justice through publicly available data sites. We will begin by exploring data sites that focus on social justice issues, such as income, education, pollution, housing, and healthy/risky behaviors. The social justice sites pull data from the federal government but since data is generally the most up to date on the home organization, we will follow the trail to the agency that gathered the data initially to look for updates and explore for other valuable information.
->
->After taking this class, participants will be able to:
->
->* Identify the HSLS LibGuide that links to publicly available sources of data by topic
->* Navigate social justice data sites
->* Determine and locate the original sources of data found on the social justice data sites.
 
 More info and RSVP: [https://www.hsls.pitt.edu/instruction/publicly-available-social-justice-data/5831](https://www.hsls.pitt.edu/instruction/publicly-available-social-justice-data/5831)
 
@@ -92,42 +85,19 @@ More info and RSVP: [https://pitt.libcal.com/event/8669324](https://pitt.libcal.
 ### <a name="spreadsheet"></a>Spreadsheet Data Organization Workshops, 12-2pm
 #### for Health Sciences users: Data Organization in Spreadsheets (Online)
 **12-1:30pm**, Zoom, hosted by Health Sciences Library System
->After this session you will be able to answer:
->
->* What are some common challenges with formatting data in spreadsheets and how can we avoid them?
->* How can we carry out basic quality assurance in spreadsheets?
->* How can we export data from spreadsheets in a way that is useful for downstream applications?
->In this hands-on class we will be using the built in data validation tools in Excel, therefore please have access to a computer with this program installed if you plan on following along. 
->
->Note: We will not be covering data analysis or statistics in this session. 
+>After this session you will be able to answer: What are some common challenges with formatting data in spreadsheets and how can we avoid them? How can we carry out basic quality assurance in spreadsheets? How can we export data from spreadsheets in a way that is useful for downstream applications? In this hands-on class we will be using the built in data validation tools in Excel, therefore please have access to a computer with this program installed if you plan on following along. Note: We will not be covering data analysis or statistics in this session. 
 
 More info and RSVP: [https://www.hsls.pitt.edu/instruction/data-organization-spreadsheets/5837](https://www.hsls.pitt.edu/instruction/data-organization-spreadsheets/5837)
 
 #### for Lower Campus users: Data TLC: Organizing Data with Spreadsheets Part 1 (Online)
 **12-1pm**, Zoom, hosted by University Library System
->Good data organization is the foundation of any research project. Typically, we organize data in spreadsheets in ways that we as humans want to work with the data. However, computers require data to be structured in particular ways in order to use tools that make computation and analysis more efficient.
->
->In this workshop, participants will learn  
->
->* Common uses for spreadsheets
->* Good data entry and formatting practices
->* How to avoid common formatting mistakes  
->
->This workshop will not cover data analysis with spreadsheets but will focus on the important initial “data wrangling” stage that enables you to do proper analysis later.
+>Good data organization is the foundation of any research project. Typically, we organize data in spreadsheets in ways that we as humans want to work with the data. However, computers require data to be structured in particular ways in order to use tools that make computation and analysis more efficient. In this workshop, participants will learn common uses for spreadsheets, good data entry and formatting practices, and how to avoid common formatting mistakes. This workshop will not cover data analysis with spreadsheets but will focus on the important initial “data wrangling” stage that enables you to do proper analysis later.
 
 More info and RSVP: [https://pitt.libcal.com/event/8671219](https://pitt.libcal.com/event/8671219)
 
 #### Data TLC: Organizing Data with Spreadsheets Part 2 (Online)
 **1-2pm**, Zoom, hosted by University Library System
->Good data organization is the foundation of any research project. Typically, we organize data in spreadsheets in ways that we as humans want to work with the data. However, computers require data to be structured in particular ways in order to use tools that make computation and analysis more efficient.
->
->In this workshop, participants will learn  
->
->* How to document data for future use
->* Basic quality control and data manipulation in spreadsheets
->* How to export data from spreadsheets
->
-> This workshop will not cover data analysis with spreadsheets but will focus on the important initial “data wrangling” stage that enables you to do proper analysis later.
+>Good data organization is the foundation of any research project. Typically, we organize data in spreadsheets in ways that we as humans want to work with the data. However, computers require data to be structured in particular ways in order to use tools that make computation and analysis more efficient. In this workshop, participants will learn how to document data for future use, basic quality control and data manipulation in spreadsheets, and how to export data from spreadsheets. This workshop will not cover data analysis with spreadsheets but will focus on the important initial “data wrangling” stage that enables you to do proper analysis later.
 
 More info and RSVP: [https://pitt.libcal.com/event/8671226](https://pitt.libcal.com/event/8671226)
 
@@ -147,9 +117,7 @@ Registration link forthcoming
 
 ### <a name="fri-uls-3"></a>Intro to Glitch Art (Online)
 **1-2pm**, Zoom, hosted by University Library System
->This online workshop will cover some of the various tools and techniques associated with the creation of Glitch Art. In addition, participants will be introduced to some of the history and conceptual theories surrounding glitch and Glitch Art.
->
->This workshop will use hex editor Notepad++ (PC, make sure to use 32 bit version) or Hex Fiend (Mac) and audio editing software Audacity for data bending. Please download both ahead of time if you want to follow along.
+>This online workshop will cover some of the various tools and techniques associated with the creation of Glitch Art. In addition, participants will be introduced to some of the history and conceptual theories surrounding glitch and Glitch Art. This workshop will use hex editor Notepad++ (PC, make sure to use 32 bit version) or Hex Fiend (Mac) and audio editing software Audacity for data bending. Please download both ahead of time if you want to follow along.
 
 More info and RSVP: [https://pitt.libcal.com/event/8671329](https://pitt.libcal.com/event/8671329)
 
