@@ -89,7 +89,7 @@ More info and RSVP: [https://pitt.libcal.com/event/8669324](https://pitt.libcal.
 
 More info and RSVP: [https://www.hsls.pitt.edu/instruction/data-organization-spreadsheets/5837](https://www.hsls.pitt.edu/instruction/data-organization-spreadsheets/5837)
 
-#### for Lower Campus users: Data TLC: Organizing Data with Spreadsheets Part 1 (Online)
+#### for general Pitt users: Data TLC: Organizing Data with Spreadsheets Part 1 (Online)
 **12-1pm**, Zoom, hosted by University Library System
 >Good data organization is the foundation of any research project. Typically, we organize data in spreadsheets in ways that we as humans want to work with the data. However, computers require data to be structured in particular ways in order to use tools that make computation and analysis more efficient. In this workshop, participants will learn common uses for spreadsheets, good data entry and formatting practices, and how to avoid common formatting mistakes. This workshop will not cover data analysis with spreadsheets but will focus on the important initial “data wrangling” stage that enables you to do proper analysis later.
 
