@@ -83,13 +83,16 @@ More info and RSVP: [https://pitt.libcal.com/event/8669324](https://pitt.libcal.
 
 ## Thursday, 2/17
 ### <a name="spreadsheet"></a>Spreadsheet Data Organization Workshops, 12-2pm
-#### for Health Sciences users: Data Organization in Spreadsheets (Online)
+
+*for Health Sciences users:*
+#### Data Organization in Spreadsheets (Online)
 **12-1:30pm**, Zoom, hosted by Health Sciences Library System
 >After this session you will be able to answer: What are some common challenges with formatting data in spreadsheets and how can we avoid them? How can we carry out basic quality assurance in spreadsheets? How can we export data from spreadsheets in a way that is useful for downstream applications? In this hands-on class we will be using the built in data validation tools in Excel, therefore please have access to a computer with this program installed if you plan on following along. Note: We will not be covering data analysis or statistics in this session. 
 
 More info and RSVP: [https://www.hsls.pitt.edu/instruction/data-organization-spreadsheets/5837](https://www.hsls.pitt.edu/instruction/data-organization-spreadsheets/5837)
 
-#### for general Pitt users: Data TLC: Organizing Data with Spreadsheets Part 1 (Online)
+*for general Pitt users:*
+#### Data TLC: Organizing Data with Spreadsheets Part 1 (Online)
 **12-1pm**, Zoom, hosted by University Library System
 >Good data organization is the foundation of any research project. Typically, we organize data in spreadsheets in ways that we as humans want to work with the data. However, computers require data to be structured in particular ways in order to use tools that make computation and analysis more efficient. In this workshop, participants will learn common uses for spreadsheets, good data entry and formatting practices, and how to avoid common formatting mistakes. This workshop will not cover data analysis with spreadsheets but will focus on the important initial “data wrangling” stage that enables you to do proper analysis later.
 
