@@ -44,8 +44,7 @@ More info and RSVP: [https://pitt.libcal.com/event/8670585](https://pitt.libcal.
 
 ### <a name="mon-hsls-1"></a>Preparing for the New NIH Data Management & Sharing Plan: Session 1 -- Elements, Costs, & Tools (Online)
 **12-1pm**, Zoom, hosted by Health Sciences Library System
->NIH has a new policy going into effect on January 25, 2023 that will require NIH-funded researchers to prospectively submit a plan outlining how scientific data from their research will be managed and shared. This session will cover the plan’s elements and allowable costs as well as tools to help with your own plan creation.
->
+>NIH has a new policy going into effect on January 25, 2023 that will require NIH-funded researchers to prospectively submit a plan outlining how scientific data from their research will be managed and shared. This session will cover the plan’s elements and allowable costs as well as tools to help with your own plan creation.\
 >This session is the first in a three-part series. Session 2 will cover locating and evaluating repositories (the “where” of data sharing). Session 3 will cover writing up documentation and metadata (the “how” of data sharing). 
 
 More info and RSVP: [https://www.hsls.pitt.edu/instruction/preparing-new-nih-data-management-sharing-plan-session-1-elements-costs-tools/6796](https://www.hsls.pitt.edu/instruction/preparing-new-nih-data-management-sharing-plan-session-1-elements-costs-tools/6796)
