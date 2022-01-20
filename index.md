@@ -11,6 +11,7 @@ This year, we are excited to invite the following Pitt community members to pres
 * [Prof. Sergey Frolov](https://www.physicsandastronomy.pitt.edu/people/sergey-frolov), Department of Physics and Astronomy faculty
 * [Prof. Edouard Machery](https://www.hps.pitt.edu/people/edouard-machery), Director, Center for Philosophy of Science
 * [Dr. Aaron Myers-Brooks](https://www.music.pitt.edu/people/aaron-myers-brooks), Department of Music Faculty
+* [Briana Wipf](https://www.literature.pitt.edu/people/briana-wipf), Literature Program PhD candidate
 * Some members of the [Contemporary Chinese Village Gazeteer Data](http://www.chinesevillagedata.library.pitt.edu/) project:
   * [Prof. Daqing  He](https://www.sci.pitt.edu/people/daqing-he), Associate Chair, Department of Informatics and Networked Systems
   * [Haihui Zhang](https://pitt.libguides.com/haihuizhang), Head, East Asian Library, and lead for the Contemporary Chinese Village Gazeteer Data project
@@ -27,7 +28,7 @@ Want to make it social media official? Follow [**#LoveDataPgh**](https://twitter
 ## Love Data Week at a glance
 Click titles to jump to full descriptions below. Researcher talks are in bold.
 
-Monday, 2/14: [Getting Started in R and R Studio](#mon-uls-1) &ndash; [Preparing for the New NIH Data Management & Sharing Plan](#mon-hsls-1) &ndash; [R and RStudio Open Office Hour](#mon-uls-2)\
+Monday, 2/14: [Getting Started in R and R Studio](#mon-uls-1) &ndash; [Preparing for the New NIH Data Management & Sharing Plan](#mon-hsls-1) &ndash; **[Briana Wipf](#mon-uls-2)** &ndash; [R and RStudio Open Office Hour](#mon-uls-3)\
 Tuesday, 2/15: [Publicly Available Social Justice Data](#tues-hsls-1) &ndash; [Data Sharing for Open Science](#tues-uls-1) &ndash; [Public 3D Scanning Events @ the Open Lab](#tues-uls-2)\
 Wednesday, 2/16: **[Prof. Edouard Machery](#wed-uls-1)**\
 Thursday, 2/17: [Spreadsheet data organization workshops](#spreadsheet)\
@@ -48,7 +49,10 @@ More info and RSVP: [https://pitt.libcal.com/event/8670585](https://pitt.libcal.
 
 More info and RSVP: [https://www.hsls.pitt.edu/instruction/preparing-new-nih-data-management-sharing-plan-session-1-elements-costs-tools/6796](https://www.hsls.pitt.edu/instruction/preparing-new-nih-data-management-sharing-plan-session-1-elements-costs-tools/6796)
 
-### <a name="mon-uls-2"></a>R and RStudio Open Office Hour (On Campus)
+### <a name="mon-uls-2"></a>Briana Wipf, PhD candidate, Literature Program (Title TBA)
+**4-5pm**, location and further details TBA, hosted by University Library System
+
+### <a name="mon-uls-3"></a>R and RStudio Open Office Hour (On Campus)
 **5-6pm**, Hillman Library, G-74 Amy Knapp Room, hosted by University Library System
 >Users of R and RStudio are invited to bring their questions to this weekly in-person office hour. Tutoring-style assistance is offered. If we don’t know the answer, we’ll help you look for it!
 
