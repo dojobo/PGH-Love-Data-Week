@@ -28,10 +28,14 @@ Want to make it social media official? Follow [**#LoveDataPgh**](https://twitter
 ## Love Data Week at a glance
 Click titles to jump to full descriptions below. Researcher talks are in bold.
 
-Monday, 2/14: [Getting Started in R and R Studio](#mon-uls-1) &ndash; [Preparing for the New NIH Data Management & Sharing Plan](#mon-hsls-1) &ndash; **[Briana Wipf](#mon-uls-2)** &ndash; [R and RStudio Open Office Hour](#mon-uls-3)\
-Tuesday, 2/15: [Publicly Available Social Justice Data](#tues-hsls-1) &ndash; [Data Sharing for Open Science](#tues-uls-1) &ndash; [Public 3D Scanning Events @ the Open Lab](#tues-uls-2)\
-Wednesday, 2/16: **[Prof. Edouard Machery](#wed-uls-1)**\
-Thursday, 2/17: [Spreadsheet data organization workshops](#spreadsheet)\
+Monday, 2/14: [Getting Started in R and R Studio](#mon-uls-1) &ndash; [Preparing for the New NIH Data Management & Sharing Plan](#mon-hsls-1) &ndash; **[Digital Textual Analysis of Early Modern Witchcraft and Murder Pamphlets, or, How to Love Your Small Data](#mon-uls-2)** (Briana Wipf) &ndash; [R and RStudio Open Office Hour](#mon-uls-3)
+
+Tuesday, 2/15: [Publicly Available Social Justice Data](#tues-hsls-1) &ndash; [Data Sharing for Open Science](#tues-uls-1) &ndash; [Public 3D Scanning Events @ the Open Lab](#tues-uls-2)
+
+Wednesday, 2/16: **[Prof. Edouard Machery](#wed-uls-1)**
+
+Thursday, 2/17: [Spreadsheet data organization workshops](#spreadsheet)
+
 Friday, 2/18: **[Contemporary Chinese Village Gazetteer Data project](#fri-uls-1)** &ndash; **[Data and Music: Dr. Aaron Myers-Brooks](#fri-uls-2)** &ndash; [Intro to Glitch Art](#fri-uls-3)
 
 ----------
@@ -49,8 +53,13 @@ More info and RSVP: [https://pitt.libcal.com/event/8670585](https://pitt.libcal.
 
 More info and RSVP: [https://www.hsls.pitt.edu/instruction/preparing-new-nih-data-management-sharing-plan-session-1-elements-costs-tools/6796](https://www.hsls.pitt.edu/instruction/preparing-new-nih-data-management-sharing-plan-session-1-elements-costs-tools/6796)
 
-### <a name="mon-uls-2"></a>Briana Wipf, PhD candidate, Literature Program (Title TBA)
-**4-5pm**, location and further details TBA, hosted by University Library System
+### <a name="mon-uls-2"></a>Digital Textual Analysis of Early Modern Witchcraft and Murder Pamphlets, or, How to Love Your Small Data
+#### Briana Wipf, PhD candidate, Literature Program (Title TBA)
+**4-5pm**, hosted by University Library System
+
+>Digital humanists who work with relatively small corpora to do digital textual analysis must wrestle with the difficulty of drawing conclusions based on statistical analysis that prefers much larger datasets. Indeed, some methods are too data-hungry to yield reliable, generalizable results. However, I argue that the difficulty and careful design needed to execute digital textual analysis on small corpora can indeed provide insights into them. In this talk, I will discuss a project that involves comparing the role of an embodied Devil figure in two genres of the early modern English popular press: witchcraft accusation pamphlets and murder pamphlets. I contend that closely pairing digital methods with close reading and attention to historical and rhetorical contexts allows us to draw conclusions about the development of the figure of the Devil over the period of the late sixteenth century to early eighteenth century.  
+
+More info TBA shortly.
 
 ### <a name="mon-uls-3"></a>R and RStudio Open Office Hour (On Campus)
 **5-6pm**, Hillman Library, G-74 Amy Knapp Room, hosted by University Library System
