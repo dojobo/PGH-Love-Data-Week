@@ -36,7 +36,7 @@ Wednesday, 2/16: **[Prof. Edouard Machery](#wed-uls-1)**
 
 Thursday, 2/17: [Spreadsheet data organization workshops](#spreadsheet)
 
-Friday, 2/18: **[Contemporary Chinese Village Gazetteer Data project](#fri-uls-1)** &ndash; **[Data and Music: Dr. Aaron Myers-Brooks](#fri-uls-2)** &ndash; [Intro to Glitch Art](#fri-uls-3)
+Friday, 2/18: **[CCVG Data - a journey from book to dataset and interactive platform](#fri-uls-1)** (Contemporary Chinese Village Gazeteer Data Project) &ndash; **[Data and Music: Dr. Aaron Myers-Brooks](#fri-uls-2)** &ndash; [Intro to Glitch Art](#fri-uls-3)
 
 ----------
 
@@ -54,7 +54,7 @@ More info and RSVP: [https://pitt.libcal.com/event/8670585](https://pitt.libcal.
 More info and RSVP: [https://www.hsls.pitt.edu/instruction/preparing-new-nih-data-management-sharing-plan-session-1-elements-costs-tools/6796](https://www.hsls.pitt.edu/instruction/preparing-new-nih-data-management-sharing-plan-session-1-elements-costs-tools/6796)
 
 ### <a name="mon-uls-2"></a>Digital Textual Analysis of Early Modern Witchcraft and Murder Pamphlets, or, How to Love Your Small Data
-#### Briana Wipf, PhD candidate, Literature Program (Title TBA)
+#### Briana Wipf, PhD candidate, Literature Program
 **4-5pm**, hosted by University Library System
 
 >Digital humanists who work with relatively small corpora to do digital textual analysis must wrestle with the difficulty of drawing conclusions based on statistical analysis that prefers much larger datasets. Indeed, some methods are too data-hungry to yield reliable, generalizable results. However, I argue that the difficulty and careful design needed to execute digital textual analysis on small corpora can indeed provide insights into them. In this talk, I will discuss a project that involves comparing the role of an embodied Devil figure in two genres of the early modern English popular press: witchcraft accusation pamphlets and murder pamphlets. I contend that closely pairing digital methods with close reading and attention to historical and rhetorical contexts allows us to draw conclusions about the development of the figure of the Devil over the period of the late sixteenth century to early eighteenth century.  
@@ -122,17 +122,24 @@ More info and RSVP: [https://pitt.libcal.com/event/8671226](https://pitt.libcal.
 ----------
 
 ## Friday, 2/18
-### <a name="fri-uls-1"></a>Contemporary Chinese Village Gazetteer Data project (Title TBA)
-**10-11am**, location and further details TBA, hosted by University Library System
+### <a name="fri-uls-1"></a>CCVG Data - a journey from book to dataset and interactive platform
+#### Contemporary Chinese Village Gazetteer Data project
+**10-11am**, Zoom, hosted by University Library System
+
+>In July 2018, the East Asian Library (EAL) of the University of Pittsburgh Library System (ULS) initiated the Contemporary Chinese Village Gazetteer Data (CCVG Data) project to create an open-access online dataset of statistics extracted from Chinese village gazetteers (村志). CCVG Data is an ongoing project. So far, about 307,760 value data from 1,500 villages were extracted and opened for access and download. This unique initiative has produced a dataset of significant value to the humanities and social sciences based on Chinese village gazetteers, which includes quantitative and qualitative  critical to supporting contemporary Chinese studies in fields including politics, economics, sociology, environmental science, history, and public health, etc. This presentation will start with a review of the background of initiating the project, followed by a presentation and demonstration on data extraction procedures, data structure, data dictionary, downloading instructions, as well as the user interactive platform, etc. The current stage and the final goal of the project will be discussed as well. 
+
+More info TBA shortly.
 
 ### <a name="fri-uls-2"></a>Data and Music: Dr. Aaron Myers-Brooks, Pitt Department of Music faculty
 **12-1pm**, Hillman Library, G-74 Amy Knapp Rm., hosted by University Library System
+
 >Electronic Music presents a fascinating opportunity for the mixing and matching of disparate input and output data. My presentation will demonstrate three very different input methods, which will generate three very different sonic results. I will begin with drawings generated in HighC, a piece of software based around 20th century composer Iannis Xenakis’s UPIC program. These drawings will generate synthesized soundscapes. I will then perform an improvised hip-hop beat using a video game controller in conjunction with Ableton Live. Finally, I will demonstrate an excerpt from an in progress piece for microtonal guitar and real time effects processing.
 
 Registration link forthcoming
 
 ### <a name="fri-uls-3"></a>Intro to Glitch Art (Online)
 **1-2pm**, Zoom, hosted by University Library System
+
 >This online workshop will cover some of the various tools and techniques associated with the creation of Glitch Art. In addition, participants will be introduced to some of the history and conceptual theories surrounding glitch and Glitch Art. This workshop will use hex editor Notepad++ (PC, make sure to use 32 bit version) or Hex Fiend (Mac) and audio editing software Audacity for data bending. Please download both ahead of time if you want to follow along.
 
 More info and RSVP: [https://pitt.libcal.com/event/8671329](https://pitt.libcal.com/event/8671329)
