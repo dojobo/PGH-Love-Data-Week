@@ -130,7 +130,8 @@ More info and RSVP: [https://pitt.libcal.com/event/8671226](https://pitt.libcal.
 
 More info TBA shortly.
 
-### <a name="fri-uls-2"></a>Data and Music: Dr. Aaron Myers-Brooks, Pitt Department of Music faculty
+### <a name="fri-uls-2"></a>Data and Music
+#### Dr. Aaron Myers-Brooks, Pitt Department of Music faculty
 **12-1pm**, Hillman Library, G-74 Amy Knapp Rm., hosted by University Library System
 
 >Electronic Music presents a fascinating opportunity for the mixing and matching of disparate input and output data. My presentation will demonstrate three very different input methods, which will generate three very different sonic results. I will begin with drawings generated in HighC, a piece of software based around 20th century composer Iannis Xenakis’s UPIC program. These drawings will generate synthesized soundscapes. I will then perform an improvised hip-hop beat using a video game controller in conjunction with Ableton Live. Finally, I will demonstrate an excerpt from an in progress piece for microtonal guitar and real time effects processing.
