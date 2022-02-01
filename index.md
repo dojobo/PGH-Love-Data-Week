@@ -36,7 +36,7 @@ Wednesday, 2/16: **["The incentives made me do it!": Really?](#wed-uls-1)** (Pro
 
 Thursday, 2/17: [Spreadsheet data organization workshops](#spreadsheet)
 
-Friday, 2/18: **[CCVG Data - a journey from book to dataset and interactive platform](#fri-uls-1)** (Contemporary Chinese Village Gazeteer Data Project) &ndash; **[Input/Output - Creative Approaches to Source Material and Sonic Result in Electronic Music](#fri-uls-2)** (Dr. Aaron Myers-Brooks) &ndash; [Intro to Glitch Art](#fri-uls-3)
+Friday, 2/18: **[CCVG Data - a journey from book to dataset and interactive platform](#fri-uls-1)** (Contemporary Chinese Village Gazeteer Data Project) &ndash; **[Input/Output - Creative Approaches to Source Material and Sonic Result in Electronic Music](#fri-uls-2)** (Dr. Aaron Myers-Brooks) &ndash; [Intro to Glitch Art](#fri-uls-3) &ndash; [Intro to QGIS](#fri-uls-4)
 
 ----------
 
@@ -159,6 +159,13 @@ Registration link forthcoming
 >This online workshop will cover some of the various tools and techniques associated with the creation of Glitch Art. In addition, participants will be introduced to some of the history and conceptual theories surrounding glitch and Glitch Art. This workshop will use hex editor Notepad++ (PC, make sure to use 32 bit version) or Hex Fiend (Mac) and audio editing software Audacity for data bending. Please download both ahead of time if you want to follow along.
 
 More info and RSVP: [https://pitt.libcal.com/event/8671329](https://pitt.libcal.com/event/8671329)
+
+### <a name="fri-uls-4"></a>Intro to QGIS (On Campus)
+**2:30-4pm**, Hillman Library, G-49 Digital Scholarship Commons, hosted by University Library System
+
+>This workshop will introduce you to QGIS – a free and Open Source GIS software that allows you to compose maps and interactively explore spatial data. QGIS supports numerous vector, raster, and database formats and functionalities. If you’re already familiar with ArcGIS and want to learn more about an open source alternative or if you’re new to digital mapping, this workshop will introduce you to the basics.
+
+More info and RSVP: [https://pitt.libcal.com/calendar/today/qgis](https://pitt.libcal.com/calendar/today/qgis)
 
 ## ...and what else?
 We love data all year! This is just a small sampling of our workshops. Check out the upcoming events at these institutions:
