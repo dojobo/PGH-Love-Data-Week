@@ -36,7 +36,7 @@ Wednesday, 2/16: **[Prof. Edouard Machery](#wed-uls-1)** &ndash; **[I got my adv
 
 Thursday, 2/17: [Spreadsheet data organization workshops](#spreadsheet)
 
-Friday, 2/18: **[CCVG Data - a journey from book to dataset and interactive platform](#fri-uls-1)** (Contemporary Chinese Village Gazeteer Data Project) &ndash; **[Data and Music: Dr. Aaron Myers-Brooks](#fri-uls-2)** &ndash; [Intro to Glitch Art](#fri-uls-3)
+Friday, 2/18: **[CCVG Data - a journey from book to dataset and interactive platform](#fri-uls-1)** (Contemporary Chinese Village Gazeteer Data Project) &ndash; **[Input/Output - Creative Approaches to Source Material and Sonic Result in Electronic Music](#fri-uls-2)** (Dr. Aaron Myers-Brooks) &ndash; [Intro to Glitch Art](#fri-uls-3)
 
 ----------
 
