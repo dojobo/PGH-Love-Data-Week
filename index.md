@@ -25,7 +25,7 @@ Want to make it social media official? Follow [**#LoveDataPgh**](https://twitter
 
 ----------
 
-## Love Data Week at a glance
+<a name="glance"></a>## Love Data Week at a glance
 Click titles to jump to full descriptions below. Researcher talks are in bold.
 
 Monday, 2/14: [Getting Started in R and R Studio](#mon-uls-1) &ndash; [Preparing for the New NIH Data Management & Sharing Plan](#mon-hsls-1) &ndash; **[Digital Textual Analysis of Early Modern Witchcraft and Murder Pamphlets, or, How to Love Your Small Data](#mon-uls-2)** (Briana Wipf) &ndash; [R and RStudio Open Office Hour](#mon-uls-3)
@@ -67,6 +67,8 @@ More info and RSVP: [https://pitt.libcal.com/calendar/today/wipf-pamphlets](http
 
 More info and RSVP: [https://pitt.libcal.com/event/8671418](https://pitt.libcal.com/event/8671418)
 
+<span style="font-size: .9em;">*[Back to top ↑](#glance)*</span>
+
 ----------
 
 ## Tuesday, 2/15
@@ -86,6 +88,8 @@ More info and RSVP: [https://pitt.libcal.com/event/8669324](https://pitt.libcal.
 **1-4pm** on 2/15, Hillman Library, Open Lab (Ground Floor), hosted by University Library System
 >Join us at the Open Lab @ Hillman on the ground floor for weekly 3D scanning demonstrations! No registration is required--just drop in.
 
+<span style="font-size: .9em;">*[Back to top ↑](#glance)*</span>
+
 ----------
 
 ## Wednesday, 2/16
@@ -104,6 +108,8 @@ More info and RSVP: [https://pitt.libcal.com/calendar/today/machery-replicabilit
 Abstract TBA.
 
 RSVP: [https://pitt.libcal.com/calendar/today/frolov-open-data](https://pitt.libcal.com/calendar/today/frolov-open-data)
+
+<span style="font-size: .9em;">*[Back to top ↑](#glance)*</span>
 
 ----------
 
@@ -129,6 +135,8 @@ More info and RSVP: [https://pitt.libcal.com/event/8671219](https://pitt.libcal.
 >Good data organization is the foundation of any research project. Typically, we organize data in spreadsheets in ways that we as humans want to work with the data. However, computers require data to be structured in particular ways in order to use tools that make computation and analysis more efficient. In this workshop, participants will learn how to document data for future use, basic quality control and data manipulation in spreadsheets, and how to export data from spreadsheets. This workshop will not cover data analysis with spreadsheets but will focus on the important initial “data wrangling” stage that enables you to do proper analysis later.
 
 More info and RSVP: [https://pitt.libcal.com/event/8671226](https://pitt.libcal.com/event/8671226)
+
+<span style="font-size: .9em;">*[Back to top ↑](#glance)*</span>
 
 ----------
 
@@ -166,6 +174,8 @@ More info and RSVP: [https://pitt.libcal.com/event/8671329](https://pitt.libcal.
 >This workshop will introduce you to QGIS – a free and Open Source GIS software that allows you to compose maps and interactively explore spatial data. QGIS supports numerous vector, raster, and database formats and functionalities. If you’re already familiar with ArcGIS and want to learn more about an open source alternative or if you’re new to digital mapping, this workshop will introduce you to the basics.
 
 More info and RSVP: [https://pitt.libcal.com/calendar/today/qgis](https://pitt.libcal.com/calendar/today/qgis)
+
+<span style="font-size: .9em;">*[Back to top ↑](#glance)*</span>
 
 ## ...and what else?
 We love data all year! This is just a small sampling of our workshops. Check out the upcoming events at these institutions:
