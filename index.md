@@ -25,7 +25,7 @@ Want to make it social media official? Follow [**#LoveDataPgh**](https://twitter
 
 ----------
 
-<a name="glance"></a>## Love Data Week at a glance
+## <a name="glance"></a>Love Data Week at a glance
 Click titles to jump to full descriptions below. Researcher talks are in bold.
 
 Monday, 2/14: [Getting Started in R and R Studio](#mon-uls-1) &ndash; [Preparing for the New NIH Data Management & Sharing Plan](#mon-hsls-1) &ndash; **[Digital Textual Analysis of Early Modern Witchcraft and Murder Pamphlets, or, How to Love Your Small Data](#mon-uls-2)** (Briana Wipf) &ndash; [R and RStudio Open Office Hour](#mon-uls-3)
