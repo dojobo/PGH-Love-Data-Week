@@ -9,7 +9,7 @@ Join us for Love Data Week 2022, **February 14-18**, for a collection of fascina
 This year, we are excited to invite the following Pitt community members to present about their research and art: 
 
 * [I got my advisor's paper retracted. Open Data could have prevented that paper.](#wed-uls-2) &bull; Prof. Sergey Frolov, Department of Physics and Astronomy faculty
-* [Prof. Edouard Machery](https://www.hps.pitt.edu/people/edouard-machery), Director, Center for Philosophy of Science
+* ["The incentives made me do it!": Really?](#wed-uls-1) &bull; [Prof. Edouard Machery](https://www.hps.pitt.edu/people/edouard-machery), Director, Center for Philosophy of Science
 * [Input/Output - Creative Approaches to Source Material and Sonic Result in Electronic Music](#fri-uls-2) &bull; Dr. Aaron Myers-Brooks, Department of Music Faculty
 * [Digital Textual Analysis of Early Modern Witchcraft and Murder Pamphlets, or, How to Love Your Small Data](#mon-uls-2) &bull; Briana Wipf, Literature Program PhD candidate
 * [CCVG Data - a journey from book to dataset and interactive platform](#fri-uls-1) &bull; members of the [Contemporary Chinese Village Gazeteer Data](http://www.chinesevillagedata.library.pitt.edu/) project:
@@ -32,7 +32,7 @@ Monday, 2/14: [Getting Started in R and R Studio](#mon-uls-1) &ndash; [Preparing
 
 Tuesday, 2/15: [Publicly Available Social Justice Data](#tues-hsls-1) &ndash; [Data Sharing for Open Science](#tues-uls-1) &ndash; [Public 3D Scanning Events @ the Open Lab](#tues-uls-2)
 
-Wednesday, 2/16: **[Prof. Edouard Machery (Title TBA)](#wed-uls-1)** &ndash; **[I got my advisor's paper retracted. Open Data could have prevented that paper.](#wed-uls-2)** (Prof. Sergey Frolov)
+Wednesday, 2/16: **["The incentives made me do it!": Really?](#wed-uls-1)** (Prof. Edouard Machery) &ndash; **[I got my advisor's paper retracted. Open Data could have prevented that paper.](#wed-uls-2)** (Prof. Sergey Frolov)
 
 Thursday, 2/17: [Spreadsheet data organization workshops](#spreadsheet)
 
@@ -89,8 +89,13 @@ More info and RSVP: [https://pitt.libcal.com/event/8669324](https://pitt.libcal.
 ----------
 
 ## Wednesday, 2/16
-### <a name="wed-uls-1"></a>Prof. Edouard Machery, Director, Center for Philosophy of Science (Title TBA)
+### <a name="wed-uls-1"></a>"The incentives made me do it!": Really?
+#### [Prof. Edouard Machery](https://www.hps.pitt.edu/people/edouard-machery), Director, Center for Philosophy of Science
 **12-1pm**, location and further details TBA, hosted by University Library System
+
+>The behavioral and biomedical sciences have been confronting a replication crisis for over a decade: An unexpectedly large number of findings, including influential ones, fail to replicate in these disciplines. A common explanation of the low replicability of findings in these sciences appeals to scientists’ incentives: Scientists are incentivized to engage in practices that undermine the reliability of their results. This talk challenges this explanation and proposes an alternative.
+
+Registration link to be posted shortly.
 
 ### <a name="wed-uls-2"></a>I got my advisor's paper retracted. Open Data could have prevented that paper.
 #### [Prof. Sergey Frolov](https://www.physicsandastronomy.pitt.edu/people/sergey-frolov), Associate Professor, Department of Physics &amp; Astronomy
