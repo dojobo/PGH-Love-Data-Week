@@ -10,7 +10,7 @@ This year, we are excited to invite the following Pitt community members to pres
 
 * [I got my advisor's paper retracted. Open Data could have prevented that paper.](#wed-uls-2) &bull; Prof. Sergey Frolov, Department of Physics and Astronomy faculty
 * [Prof. Edouard Machery](https://www.hps.pitt.edu/people/edouard-machery), Director, Center for Philosophy of Science
-* [Data and Music](#fri-uls-2) &bull; Dr. Aaron Myers-Brooks, Department of Music Faculty
+* [Input/Output - Creative Approaches to Source Material and Sonic Result in Electronic Music](#fri-uls-2) &bull; Dr. Aaron Myers-Brooks, Department of Music Faculty
 * [Digital Textual Analysis of Early Modern Witchcraft and Murder Pamphlets, or, How to Love Your Small Data](#mon-uls-2) &bull; Briana Wipf, Literature Program PhD candidate
 * [CCVG Data - a journey from book to dataset and interactive platform](#fri-uls-1) &bull; members of the [Contemporary Chinese Village Gazeteer Data](http://www.chinesevillagedata.library.pitt.edu/) project:
   * [Prof. Daqing  He](https://www.sci.pitt.edu/people/daqing-he), Associate Chair, Department of Informatics and Networked Systems
@@ -140,7 +140,7 @@ More info and RSVP: [https://pitt.libcal.com/event/8671226](https://pitt.libcal.
 
 More info TBA shortly.
 
-### <a name="fri-uls-2"></a>Data and Music
+### <a name="fri-uls-2"></a>Input/Output - Creative Approaches to Source Material and Sonic Result in Electronic Music
 #### [Dr. Aaron Myers-Brooks](https://www.music.pitt.edu/people/aaron-myers-brooks), Pitt Department of Music faculty
 **12-1pm**, Hillman Library, G-74 Amy Knapp Rm., hosted by University Library System
 
