@@ -32,7 +32,7 @@ Monday, 2/14: [Getting Started in R and R Studio](#mon-uls-1) &ndash; [Preparing
 
 Tuesday, 2/15: [Publicly Available Social Justice Data](#tues-hsls-1) &ndash; [Data Sharing for Open Science](#tues-uls-1) &ndash; [Public 3D Scanning Events @ the Open Lab](#tues-uls-2)
 
-Wednesday, 2/16: **[Prof. Edouard Machery](#wed-uls-1)** &ndash; **[I got my advisor's paper retracted. Open Data could have prevented that paper.](#wed-uls-2)** (Prof. Sergey Frolov)
+Wednesday, 2/16: **[Prof. Edouard Machery (Title TBA)](#wed-uls-1)** &ndash; **[I got my advisor's paper retracted. Open Data could have prevented that paper.](#wed-uls-2)** (Prof. Sergey Frolov)
 
 Thursday, 2/17: [Spreadsheet data organization workshops](#spreadsheet)
 
