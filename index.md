@@ -59,7 +59,7 @@ More info and RSVP: [https://www.hsls.pitt.edu/instruction/preparing-new-nih-dat
 
 >Digital humanists who work with relatively small corpora to do digital textual analysis must wrestle with the difficulty of drawing conclusions based on statistical analysis that prefers much larger datasets. Indeed, some methods are too data-hungry to yield reliable, generalizable results. However, I argue that the difficulty and careful design needed to execute digital textual analysis on small corpora can indeed provide insights into them. In this talk, I will discuss a project that involves comparing the role of an embodied Devil figure in two genres of the early modern English popular press: witchcraft accusation pamphlets and murder pamphlets. I contend that closely pairing digital methods with close reading and attention to historical and rhetorical contexts allows us to draw conclusions about the development of the figure of the Devil over the period of the late sixteenth century to early eighteenth century.  
 
-More info TBA shortly.
+More info and RSVP: [https://pitt.libcal.com/calendar/today/wipf-pamphlets](https://pitt.libcal.com/calendar/today/wipf-pamphlets)
 
 ### <a name="mon-uls-3"></a>R and RStudio Open Office Hour (On Campus)
 **5-6pm**, Hillman Library, G-74 Amy Knapp Room, hosted by University Library System
@@ -95,13 +95,15 @@ More info and RSVP: [https://pitt.libcal.com/event/8669324](https://pitt.libcal.
 
 >The behavioral and biomedical sciences have been confronting a replication crisis for over a decade: An unexpectedly large number of findings, including influential ones, fail to replicate in these disciplines. A common explanation of the low replicability of findings in these sciences appeals to scientists’ incentives: Scientists are incentivized to engage in practices that undermine the reliability of their results. This talk challenges this explanation and proposes an alternative.
 
-Registration link to be posted shortly.
+More info and RSVP: [https://pitt.libcal.com/calendar/today/machery-replicability](https://pitt.libcal.com/calendar/today/machery-replicability)
 
 ### <a name="wed-uls-2"></a>I got my advisor's paper retracted. Open Data could have prevented that paper.
 #### [Prof. Sergey Frolov](https://www.physicsandastronomy.pitt.edu/people/sergey-frolov), Associate Professor, Department of Physics &amp; Astronomy
 **4-5pm**, location and further details TBA, hosted by University Library System
 
-More info TBA shortly.
+Abstract TBA.
+
+RSVP: [https://pitt.libcal.com/calendar/today/frolov-open-data](https://pitt.libcal.com/calendar/today/frolov-open-data)
 
 ----------
 
@@ -143,7 +145,7 @@ More info and RSVP: [https://pitt.libcal.com/event/8671226](https://pitt.libcal.
 
 >In July 2018, the East Asian Library (EAL) of the University of Pittsburgh Library System (ULS) initiated the Contemporary Chinese Village Gazetteer Data (CCVG Data) project to create an open-access online dataset of statistics extracted from Chinese village gazetteers (村志). CCVG Data is an ongoing project. So far, about 307,760 value data from 1,500 villages were extracted and opened for access and download. This unique initiative has produced a dataset of significant value to the humanities and social sciences based on Chinese village gazetteers, which includes quantitative and qualitative  critical to supporting contemporary Chinese studies in fields including politics, economics, sociology, environmental science, history, and public health, etc. This presentation will start with a review of the background of initiating the project, followed by a presentation and demonstration on data extraction procedures, data structure, data dictionary, downloading instructions, as well as the user interactive platform, etc. The current stage and the final goal of the project will be discussed as well. 
 
-More info TBA shortly.
+More info and RSVP: [https://pitt.libcal.com/calendar/today/ccvg-data](https://pitt.libcal.com/calendar/today/ccvg-data)
 
 ### <a name="fri-uls-2"></a>Input/Output - Creative Approaches to Source Material and Sonic Result in Electronic Music
 #### [Dr. Aaron Myers-Brooks](https://www.music.pitt.edu/people/aaron-myers-brooks), Pitt Department of Music faculty
@@ -151,7 +153,7 @@ More info TBA shortly.
 
 >Electronic Music presents a fascinating opportunity for the mixing and matching of disparate input and output data. My presentation will demonstrate three very different input methods, which will generate three very different sonic results. I will begin with drawings generated in HighC, a piece of software based around 20th century composer Iannis Xenakis’s UPIC program. These drawings will generate synthesized soundscapes. I will then perform an improvised hip-hop beat using a video game controller in conjunction with Ableton Live. Finally, I will demonstrate an excerpt from an in progress piece for microtonal guitar and real time effects processing.
 
-Registration link forthcoming
+More info and RSVP: [https://pitt.libcal.com/calendar/today/myers-brooks-music](https://pitt.libcal.com/calendar/today/myers-brooks-music)
 
 ### <a name="fri-uls-3"></a>Intro to Glitch Art (Online)
 **1-2pm**, Zoom, hosted by University Library System
