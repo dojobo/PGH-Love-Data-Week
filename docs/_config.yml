@@ -1,0 +1,4 @@
+remote_theme: daviddarnes/alembic@main
+title: Love Data Week PGH
+plugins:
+  - jekyll-redirect-from
