@@ -1,0 +1,17 @@
+---
+title: false
+styles: true
+---
+
+$accentColour: #8C0303 !default;
+$linkColour: #8C0303 !default;
+$hoverColour: #590202 !default;
+$focusColour: #F23D3D !default;
+$captionColour: #F2F2F2 !default;
+
+@import "alembic";
+
+hr {
+    padding-bottom: 0.5rem !important;
+    padding-top: 0.5rem !important;
+}
