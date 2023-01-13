@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Love Data Week 2023 at Pitt",
     "section": "",
-    "text": "2023 is the Year of Emotional Well-Being at Pitt, and this year we want to emphasize healthy learning and professional development: it’s not about being the perfect coder or making the perfect plot, but about starting where you are, and doing what you can with what you have.\nIn that spirit, we’re offering accessible workshops, artistic expressions with data, informative talks, and social mixers about data work. Events will be online (Zoom) except for mixers.\nWhen is Love Data Week? February 10–17, 2023. Save the date!\nThe call for proposals is currently open until January 6. Check back here for updates!\nLove Data Week at Pitt 2023 is a joint project by the University Library System (ULS) and Health Sciences Library System (HSLS) with support from the Year of Emotional Well-Being Funding Opportunity.\nIn the meantime, you can also review last year’s lineup here: Love Data Week 2022 at Pitt"
+    "text": "Love Data Week is an annual time for libraries to showcase, discuss, and celebrate working with data.\n2023 is the Year of Emotional Well-Being at Pitt, and this year we want to emphasize healthy learning and professional development: it’s not about being the perfect coder or making the perfect plot, but about starting where you are, and doing what you can with what you have.\nIn that spirit, we’re offering accessible workshops, artistic expressions with data, informative talks, and social mixers about data work. Events will be online (Zoom) except for mixers.\nWhen is Love Data Week? February 10–17, 2023. Save the date!\nThe organizing committee is currently building the lineup and expects to release all details (with registration links) very soon. In the meantime, here is a preview of confirmed presenters and other events:"
   },
   {
     "objectID": "about.html",
@@ -40,5 +40,40 @@
     "title": "Love Data Week 2023 at Pitt",
     "section": "Monday, February 13",
     "text": "Monday, February 13"
+  },
+  {
+    "objectID": "index.html#featured-presenters",
+    "href": "index.html#featured-presenters",
+    "title": "Love Data Week 2023 at Pitt",
+    "section": "Featured Presenters",
+    "text": "Featured Presenters\n\n“Open Education Resources - Iteration in a repository for learning/sharing” Dr. Ravi Patel, School of Pharmacy\n\nOpen education resources (OER) are a resource with overwhelming resources. This discussion will review a project to compile and share a repository of information for clinician students learning about data. The project began with an OER grant, found an iteration on Google Docs, GitHub Pages, and a Notion repository. This presentation will discuss challenges, learnings, and options to learn along the presenter’s journey.\nAudiences: Graduate students; postdoctoral fellows; faculty and instructors\n\n\n\n“Gestural Music-Making and Wireless Data Manipulation in Electronic Music” Brian Riordan, School of Music\n\nReal-time electronic music presents a fascinating opportunity for manipulating data to produce different sonic results. In the past, this genre was created exclusively in the studio. Recently, a floodgate of new hardware interfaces for musical expression gave laptop performers newer and better ways to control software with hardware on stage in front of an audience. Music, at its core, is a means of communication, and computers offer ways of enhancing interconnection. My presentation will demonstrate three real-time approaches to manipulating computer data to produce electronic sounds. I will begin with a demonstration using the laptop as an instrument using the programming environment Max/MSP. Next, I will perform a short improvisation using an iPad as a controller, which uses a custom-built interface. Finally, I will expand the presentation into a group workshop by inviting several audience members to participate with their laptops. By connecting to the wi-fi, the participants can perform electronic music as a group using a URL that I will generate for the workshop.\nAudience: General Pitt community\n\nMore presenters to be announced!"
+  },
+  {
+    "objectID": "index.html#social-mixers",
+    "href": "index.html#social-mixers",
+    "title": "Love Data Week 2023 at Pitt",
+    "section": "Social Mixers",
+    "text": "Social Mixers\nDescriptions to come. Refreshments will be served; registration required. Save the dates!\nGraduate Students Mixer: Thursday Feb. 16, 4–6pm, Hillman Library\nFaculty Mixer: Thursday Feb. 23, 4–6pm, University Club"
+  },
+  {
+    "objectID": "index.html#workshops-and-presentations",
+    "href": "index.html#workshops-and-presentations",
+    "title": "Love Data Week 2023 at Pitt",
+    "section": "Workshops and Presentations",
+    "text": "Workshops and Presentations\nLinked presentations are already open for registration!\n\nThe NIH Policy for Data Management & Sharing: Catalog vs. Repository for Restricted Datasets\nData Visualization in R and ggplot2\nIntroduction to All Of Us Researcher Workbench\nIntroduction to R\nData TLC: Organizing Data with Spreadsheets\nHow to Name and Organize Your Project Files\nIntroduction to 3D Scanning\nDrop-In Hours: Python, Java, and R\n\nCheck back for more updates!"
+  },
+  {
+    "objectID": "index.html#about-love-data-week-at-pitt",
+    "href": "index.html#about-love-data-week-at-pitt",
+    "title": "Love Data Week 2023 at Pitt",
+    "section": "About Love Data Week at Pitt",
+    "text": "About Love Data Week at Pitt\nLove Data Week at Pitt 2023 is a joint project by the University Library System (ULS) and Health Sciences Library System (HSLS) with support from the Year of Emotional Well-Being Funding Opportunity.\nLast year’s lineup: Love Data Week 2022 at Pitt"
+  },
+  {
+    "objectID": "index.html#featured-presentions",
+    "href": "index.html#featured-presentions",
+    "title": "Love Data Week 2023 at Pitt",
+    "section": "Featured Presentions",
+    "text": "Featured Presentions\n\nOpen Educational Resources - Iteration in data science for health sciences\nDr. Ravi Patel, School of Pharmacy\n\nOpen Educational Resources (OER) are any type of educational material freely available for teachers and students to use, adapt, share, and reuse. These resources can be overwhelming to locate and/or create. This discussion will review a project to compile and share a repository of information for clinician students learning about data. The project began with an OER grant, found an iteration on Google Docs, GitHub Pages, and a Notion repository. This presentation will discuss challenges, learnings, and options to learn along the presenter’s journey and share resources for both health sciences and data science perspectives.\nAudiences: Graduate students; postdoctoral fellows; faculty and instructors\n\n\n\nGestural Music-Making and Wireless Data Manipulation in Electronic Music\nBrian Riordan, School of Music\n\nReal-time electronic music presents a fascinating opportunity for manipulating data to produce different sonic results. In the past, this genre was created exclusively in the studio. Recently, a floodgate of new hardware interfaces for musical expression gave laptop performers newer and better ways to control software with hardware on stage in front of an audience. Music, at its core, is a means of communication, and computers offer ways of enhancing interconnection. My presentation will demonstrate three real-time approaches to manipulating computer data to produce electronic sounds. I will begin with a demonstration using the laptop as an instrument using the programming environment Max/MSP. Next, I will perform a short improvisation using an iPad as a controller, which uses a custom-built interface. Finally, I will expand the presentation into a group workshop by inviting several audience members to participate with their laptops. By connecting to the wi-fi, the participants can perform electronic music as a group using a URL that I will generate for the workshop.\nAudience: General Pitt community\n\nMore presenters to be announced!"
   }
 ]
