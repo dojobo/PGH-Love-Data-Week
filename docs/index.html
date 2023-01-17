@@ -104,8 +104,86 @@ ul.task-list{list-style: none;}
 <p>When is Love Data Week at Pitt? <strong>February 10–17, 2023.</strong> Save the date!</p>
 <section id="week-at-a-glance" class="level2">
 <h2 class="anchored" data-anchor-id="week-at-a-glance">Week at a glance</h2>
-<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;mode=AGENDA&amp;showNav=0&amp;showPrint=1&amp;showDate=0&amp;showCalendars=0&amp;title&amp;showTitle=0&amp;src=Y18wODc0MjMyYTg3ZjE2MzYyMjJiYWRiNGMzYjA3ZWI2MmIxY2ZlNzYyYWZiMDdiMGQwNGYwZWM1NjJhOTc4ODExQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%239E69AF&amp;dates=20230210/20230217" style="border:solid 1px #777; max-width: 95%; display: block; margin: auto" width="700" height="500" frameborder="0" scrolling="no">
-</iframe>
+<table class="table">
+<tbody>
+<tr class="odd">
+<td></td>
+<td><strong>Monday, February 13:</strong></td>
+</tr>
+<tr class="even">
+<td>11am&nbsp;&nbsp;</td>
+<td>The NIH Policy for Data Management &amp; Sharing: Catalog vs.&nbsp;Repository for Restricted Datasets</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><strong>Tuesday, February 14:</strong></td>
+</tr>
+<tr class="even">
+<td>11am&nbsp;&nbsp;</td>
+<td><a href="#starting-where-you-are-tips-for-your-first-data-science-project">Starting Where You Are – Tips for Your First Data Science Project</a></td>
+</tr>
+<tr class="odd">
+<td>1pm&nbsp;&nbsp;</td>
+<td>Introduction to All of Us Researcher Workbench</td>
+</tr>
+<tr class="even">
+<td>3pm&nbsp;&nbsp;</td>
+<td>Python and Java Drop-In Hour</td>
+</tr>
+<tr class="odd">
+<td>5pm&nbsp;&nbsp;</td>
+<td>R and RStudio Drop-In Hour</td>
+</tr>
+<tr class="even">
+<td></td>
+<td><strong>Wednesday, February 15:</strong></td>
+</tr>
+<tr class="odd">
+<td>2pm&nbsp;&nbsp;</td>
+<td><a href="#art-data">Art + Data</a></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><strong>Thursday, February 16:</strong></td>
+</tr>
+<tr class="odd">
+<td>10am&nbsp;&nbsp;</td>
+<td><a href="#producing-maps-using-arcgis-online-and-esris-living-atlas">Producing Maps using ArcGIS Online and ESRI’s Living Atlas</a></td>
+</tr>
+<tr class="even">
+<td>12pm&nbsp;&nbsp;</td>
+<td>Introduction to R</td>
+</tr>
+<tr class="odd">
+<td>1pm&nbsp;&nbsp;</td>
+<td>Data TLC: Organizing Data with Spreadsheets</td>
+</tr>
+<tr class="even">
+<td>4pm&nbsp;&nbsp;</td>
+<td>Graduate Student Mixer</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><strong>Friday, February 17:</strong></td>
+</tr>
+<tr class="even">
+<td>11am&nbsp;&nbsp;</td>
+<td><a href="#open-educational-resources---iteration-in-data-science-for-health-sciences">Open Educational Resources - Iteration in data science for health sciences</a></td>
+</tr>
+<tr class="odd">
+<td>3pm&nbsp;&nbsp;</td>
+<td><a href="#gestural-music-making-and-wireless-data-manipulation-in-electronic-music">Gestural Music-Making and Wireless Data Manipulation in Electronic Music</a></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><strong>Thursday, February 23</strong></td>
+</tr>
+<tr class="odd">
+<td>4pm&nbsp;&nbsp;</td>
+<td>Faculty Mixer</td>
+</tr>
+</tbody>
+</table>
 </section>
 <section id="featured-events" class="level2">
 <h2 class="anchored" data-anchor-id="featured-events">Featured Events</h2>
@@ -266,6 +344,22 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return popup.innerHTML;
     });
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          // default icon
+          link.classList.add("external");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->
